@@ -2,21 +2,26 @@
   box-sizing: border-box;
 }
 html {
-  background-image: linear-gradient(#354046, #8c6a4f);
+  background-image: linear-gradient(#000000, #354046, #8c6a4f);
 }
 body {
   color: white;
   font-family: "Josefin Sans", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 header {
   text-align: center;
 }
 nav {
+  font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 2em 5em;
+  padding: 0.5em 5em;
   gap: 2em;
+  font-size: 2em;
+  background-color: black;
 
   > a {
     color: white !important;
@@ -24,12 +29,48 @@ nav {
   }
   > img {
     background-color: white;
-    height: 3em;
-    width: 3em;
+    height: 4em;
+    width: 4em;
     border-radius: 50%;
   }
   > :nth-child(2) {
     flex-grow: 1;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  > :nth-child(3) {
+    position: relative;
+    &::after {
+      content: "";
+      position: absolute;
+      background-color: white;
+      width: 50%;
+      animation: line 0.5s;
+      height: 3px;
+      left: 0;
+      bottom: 0;
+    }
+  }
+}
+
+#info {
+  display: flex;
+  gap: 1em;
+  padding: 3em 5em;
+  align-items: center;
+
+  > p {
+    flex: 1;
+    font-size: 1.8em;
+    text-align: justify;
+    padding: 0 2em;
+    > span {
+      font-size: 2em;
+      font-weight: bold;
+    }
+  }
+  > img {
+    width: 30%;
   }
 }
 .boxes {
@@ -88,6 +129,7 @@ nav {
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
+    object-fit: cover;
   }
 
   .img1 {
@@ -121,23 +163,31 @@ nav {
   }
 }
 
-#home {
-  footer {
-    background-color: black;
-    padding: 3em;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 3em;
-    > p {
-      text-align: justify;
-      > span {
-        font-size: 1.5em;
-        display: block;
-        text-align: center;
-        padding: 1em;
-      }
+footer {
+  background-color: black;
+  padding: 3em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 3em;
+  > p {
+    text-align: justify;
+    font-size: 1.5em;
+    > span {
+      font-size: 1.5em;
+      font-weight: bold;
+      display: block;
+      text-align: center;
+      padding: 1em;
     }
+  }
+}
+
+@keyframes line {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 50%;
   }
 }

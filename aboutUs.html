@@ -12,6 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
       rel="stylesheet"
     />
+    <link rel="icon" type="image/x-icon" href="/images/Logo.png" />
   </head>
 
   <body>
@@ -26,6 +27,57 @@
     <main>
       <div id="AboutUs"></div>
     </main>
-    <script src="./index.js"></script>
+    <script>
+      const aboutUsData = [
+        {
+          name: "Ryan Alcober",
+          img: "./images/aboutUs/Alcober, Ryan.png",
+          role: "Project Manager",
+          info: "The project manager oversees planning, execution, and completion of tasks, ensuring alignment with objectives and timelines, and addressing any challenges to keep the project on track.",
+        },
+        {
+          name: "Nathaniel B. Berres",
+          img: "./images/aboutUs/Berres, Nathaniel.png",
+          role: "Lead Programmer",
+          info: "The lead programmer directs the technical aspects of software development, organizing tasks, assigning roles, and ensuring code quality and efficiency. They collaborate with team members, troubleshoot issues, and strive for innovation to meet project goals effectively.",
+        },
+        {
+          name: "Mark Trojan T. Manikat",
+          img: "./images/aboutUs/Manikat, Trojan.png",
+          role: "Prototype Designer",
+          info: "The prototype designer collaborates with teams to conceptualize and create early-stage models of products or systems. They refine ideas, iterate on prototypes, and validate concepts to ensure user-centric design and innovation in product development.",
+        },
+        {
+          name: "Angelica L. Evangelista",
+          img: "./images/aboutUs/Evangelista, Angelica.png",
+          role: "Lead Researcher",
+          info: "The lead researcher oversees the research process, guiding team members in gathering, analyzing, and interpreting data. They establish research goals, methodologies, and timelines, ensuring accuracy and relevance of findings to inform decision-making and advance knowledge in the field.",
+        },
+        {
+          name: "Patricia Ann N. Castro",
+          img: "./images/aboutUs/Castro, Patricia.png",
+          role: "Assistant Designer and Researchers",
+          info: "The assistant supports various tasks within an organization, aiding in administrative duties, scheduling, and correspondence. They assist team members, manage documents, and contribute to the smooth functioning of operations by providing valuable support across different areas of responsibility.",
+        },
+      ]
+
+      const aboutUsBox = document.querySelector("#aboutUs")
+      const aboutUsELements = aboutUsData.map((item) => {
+        return `
+  <div>
+    <div>
+      <img src="${item.img}">
+      <div>
+        <p>${item.name}</p>
+        <p>${item.role}</p>
+        <p>BSIT 3B</p>
+      </div>
+    </div>
+    <p>${item.info}</p>
+  </div>`
+      })
+
+      aboutUsBox.innerHTML = aboutUsELements.join("")
+    </script>
   </body>
 </html>

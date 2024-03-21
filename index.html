@@ -48,24 +48,24 @@
       </div>
       <div class="boxes">
         <div>
-          <img src="./images/home/1.png" alt="" />
+          <img src="./images/artist/johannes.webp" alt="" />
         </div>
         <div>
-          <img src="./images/home/2.png" alt="" />
+          <img src="./images/mona.webp" alt="" />
         </div>
         <div>
-          <img src="./images/home/3.png" alt="" />
+          <img src="./images/starry.jpg" alt="" />
         </div>
         <div>
-          <img src="./images/home/4.png" alt="" />
+          <img src="./images/creation.jpg" alt="" />
         </div>
       </div>
       <div class="carousel">
-        <img src="./images/home/5.png" class="img1" alt="" />
-        <img src="./images/home/6.png" class="img2" alt="" />
-        <img src="./images/home/7.png" class="img3" alt="" />
-        <img src="./images/home/8.png" class="img4" alt="" />
-        <img src="./images/home/9.png" class="img5" alt="" />
+        <img src="./images/persistence.jpg" class="img1" alt="" />
+        <img src="./images/1.jpg" class="img2" alt="" />
+        <img src="./images/2.jpg" class="img3" alt="" />
+        <img src="./images/3.jpeg" class="img4" alt="" />
+        <img src="./images/water.jpg" class="img5" alt="" />
       </div>
       <footer>
         <p>
@@ -89,6 +89,19 @@
         </p>
       </footer>
     </main>
-    <script src="./index.js"></script>
+    <script>
+      const imgBoxes = document.querySelectorAll(".carousel > img")
+      imgBoxes.forEach((element) => {
+        element.addEventListener("click", () => {
+          const previousClass = element.classList.value
+          element.classList.replace(previousClass, "img3")
+          imgBoxes.forEach((img) => {
+            if (img.classList.contains("img3") && img !== element) {
+              img.classList.replace("img3", previousClass)
+            }
+          })
+        })
+      })
+    </script>
   </body>
 </html>

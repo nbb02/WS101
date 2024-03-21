@@ -10,7 +10,7 @@ html {
 body {
   background-repeat: no-repeat;
   color: white;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -23,19 +23,24 @@ body {
     flex: 1;
     overflow: auto;
   }
+  p {
+    margin: 0;
+    padding: 0;
+  }
 }
+
 header {
   text-align: center;
 }
 nav {
-  font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: row;
   align-items: center;
   padding: 0.5em 5em;
   gap: 2em;
-  font-size: 2em;
+  font-size: 1.2em;
   background-color: black;
+  height: 5em;
 
   > a {
     color: white !important;
@@ -43,9 +48,8 @@ nav {
   }
   > img {
     background-color: white;
-    height: 4em;
-    width: 4em;
     border-radius: 50%;
+    height: 100%;
   }
   > :nth-child(2) {
     flex-grow: 1;
@@ -57,10 +61,9 @@ nav {
     &::after {
       content: "";
       position: absolute;
-      animation: line 0.5s;
-
       background-color: white;
       width: 50%;
+      animation: line 0.5s;
       height: 3px;
       left: 0;
       bottom: 0;
@@ -71,34 +74,48 @@ nav {
 main {
   overflow: hidden;
 }
-
-main > div {
-  display: flex;
-  flex-direction: column;
+#aboutUs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 1em;
-  padding: 0 20%;
+  padding: 0 10%;
 
   > div {
+    border: 2px solid white;
+    border-radius: 0.5em;
     padding: 1em;
-    display: grid;
-    grid-template: repeat(4, 1fr) / 12em auto;
-    align-items: center;
-    min-height: 10em;
+    display: flex;
+    flex-direction: column;
 
-    > p {
-      margin: 0;
-      padding: 0;
-    }
-    > img {
-      width: 10em;
-      grid-row: span 4;
-      justify-self: center;
-    }
-
-    > :not(:last-child):not(:first-child) {
+    > :first-child {
       font-weight: bold;
-      font-size: 1.5em;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 0.5em;
+
+      > div {
+        display: grid;
+        gap: 0.5em;
+      }
+
+      > img {
+        width: 8em;
+        align-self: center;
+        border-radius: 0.25em;
+        border: 1px solid black;
+        margin: 0.5em;
+        grid-row: span 3;
+      }
     }
+    > p {
+      text-align: justify;
+    }
+  }
+  > :last-child {
+    width: 50%;
+    justify-self: center;
+    grid-column: span 2;
   }
 }
 @keyframes line {

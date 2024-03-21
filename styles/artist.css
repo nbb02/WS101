@@ -13,6 +13,7 @@ body {
   height: 100vh;
   color: white;
   font-family: "Poppins", sans-serif;
+  position: relative;
 
   display: flex;
   flex-direction: column;
@@ -22,6 +23,25 @@ body {
     position: relative;
   }
 }
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 0.25em;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 0.25em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
 header {
   text-align: center;
 }
@@ -120,7 +140,6 @@ nav {
   background-color: rgba(26, 26, 26, 0.309);
   display: grid;
   grid-template-columns: 5fr 2fr;
-  font-size: 1.2em;
   * {
     padding: 0 0.5em;
   }
@@ -130,7 +149,7 @@ nav {
     padding: 2em;
     > :first-child {
       font-weight: bold;
-      font-size: 1.2em;
+      font-size: 1.5em;
     }
 
     div {
@@ -214,6 +233,53 @@ nav {
         opacity: 100%;
       }
       transform: scale(110%);
+    }
+  }
+}
+
+#float {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 3;
+  height: 60%;
+  width: 60%;
+  background-color: rgba(3, 3, 3, 0.411);
+  backdrop-filter: blur(5px);
+  border: 2px solid white;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+
+  > div:first-of-type {
+    display: grid;
+    grid-template-columns: auto 1fr;
+
+    > img {
+      grid-row: span 2;
+      height: 15em;
+      object-fit: contain;
+    }
+    > p {
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+  }
+
+  .infotext {
+    flex: 1;
+    overflow: auto;
+  }
+
+  > button {
+    padding: 0.5em;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    &:hover {
+      background-color: white;
+      color: rgb(0, 0, 0);
     }
   }
 }

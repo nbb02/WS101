@@ -479,6 +479,29 @@ function setArtists() {
   setInfo()
 }
 
+function setImageInfo(data) {
+  const infoBox = document.querySelector("#float")
+  infoBox.innerHTML = `
+  <div>
+  <img src=${data.img} />
+  <p>${data.artist}</p>
+  <p>${data.title}</p>
+  </div>
+  <div class="infotext">
+  <p>${data.info}</p>
+  </div>
+  <button class="closeInfo">Close</button>
+  `
+
+  const floatElement = document.querySelector("#float")
+  floatElement.style.display = floatElement.innerHTML === "" ? "none" : "flex"
+
+  document.querySelector(".closeInfo").addEventListener("click", () => {
+    const floatElement = document.querySelector("#float")
+    floatElement.style.display = "none"
+  })
+}
+
 function setInfo() {
   const artistBoxes = document.querySelectorAll(".artistBox")
   artistBoxes.forEach((item) => {
@@ -491,7 +514,7 @@ function setInfo() {
       rootElement.innerHTML = `
         <div class="artistInfoBox">
         <button class="close">X</button>
-          <div>
+          <div class="imagesButton">
             <p>${artistInfo.bg}</p>
             <p>${artistInfo.info}</p>
             <h3>Famous Artworks</h3>
@@ -500,7 +523,7 @@ function setInfo() {
                 artistInfo?.arts
                   ?.map(
                     (item) =>
-                      `<div>
+                      `<div class="artistArtworks" id="${item.title}_${artistInfo.name}">
                       <p>${item.title}</p>
                       <img src="${item.img}">
                       </div>`
@@ -514,7 +537,29 @@ function setInfo() {
             <h2>${artistInfo.name}</h2>
             <p>${artistInfo.story}</p>
           </div>
-        </div>`
+          <div id="float"></div>
+        </div>
+        `
+
+      const floatElement = document.querySelector("#float")
+      floatElement.style.display =
+        floatElement.innerHTML === "" ? "none" : "flex"
+
+      const imageButtons = document.querySelectorAll(".artistArtworks")
+
+      imageButtons.forEach((item) => {
+        item.addEventListener("click", () => {
+          const data = item.id.split("_")
+          console.log(data)
+
+          const artist = artistData.find((item) => item.name === data[1])
+          const artworkInfo = artist?.arts?.find(
+            (item) => item.title === data[0]
+          )
+
+          setImageInfo({ artist: data[1], ...artworkInfo })
+        })
+      })
 
       const closeButton = document.querySelector(".close")
       closeButton?.addEventListener("click", () => {

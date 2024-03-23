@@ -62,6 +62,9 @@ const subGallery = {
       artist: "Pablo Picasso",
       img: "./images/head.jpg",
       info: `This is Picasso's first Cubist sculpture and one of more than sixty Cubist paintings, sculptures, and drawings the artist made of his companion Fernande Olivier in 1909. Picasso modeled the bust in Paris after the couple returned from a summer trip to Spain. As in his early Cubist paintings, Fernande’s head is described in facets and voids. Intended to be seen in the round, the composition changes when viewed from different angles. The torque of the neck counters the downward tilt of the head and suggests movement, as if Fernande is about to look over her shoulder.`,
+      artistInfo:
+        "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
+      artistImg: "./images/artist/pablo.jpg",
     },
     {
       title: "Violin and Glass",
@@ -74,12 +77,18 @@ const subGallery = {
       artist: "Pablo Picasso",
       img: "./images/guernica.jpg",
       info: `Guernica, a large black-and-white oil painting executed by Spanish artist Pablo Picasso in 1937 following the German bombing of Guernica, a city in Spain’s Basque region. The complex painting received mixed reviews when it was shown in the Spanish Republic Pavilion at the world’s fair in Paris, but it became an icon as it traveled the world in ensuing years, raising controversies on its meaning and its rightful home.`,
+      artistInfo:
+        "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
+      artistImg: "./images/artist/pablo.jpg",
     },
     {
       title: "Les Demoiselles d'Avignon",
       artist: "Pablo Picasso",
       img: "./images/les.jpg",
       info: `The two figures at the right are the most aggressively abstracted with faces rendered as if they wear African masks. By 1907, when this painting was produced, Picasso had begun to collect such work. Even the striations that represent scarification is evident. Matisse and André Derain had a longer standing interest in such art, but Picasso said that it was only after wandering into the Palais du Trocadero, Paris’s ethnographic museum, that he understood the value of such art. Remember, France was a major colonial power in Africa in the 19th and 20th centuries. Much African art was ripped from its original geographic and artistic context and sold in Paris. Although Picasso would eventually become more sophisticated regarding the original uses and meaning of the non-Western art that he collected, in 1907 his interest was largely based on what he perceived as its alien and aggressive qualities.`,
+      artistInfo:
+        "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
+      artistImg: "./images/artist/pablo.jpg",
     },
   ],
   Abstract: [
@@ -94,6 +103,9 @@ const subGallery = {
       artist: "Pablo Picasso",
       img: "./images/guernica.jpg",
       info: "A powerful example of abstract expressionism depicting the bombing of Guernica during the Spanish Civil War. Picasso uses distorted figures, fragmented shapes, and a monochromatic palette to convey the horror and chaos.",
+      artistInfo:
+        "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
+      artistImg: "./images/artist/pablo.jpg",
     },
     {
       title: "Number 14 (1951)",
@@ -170,6 +182,9 @@ const subGallery = {
       artist: "Pablo Picasso",
       img: "./images/guernica.jpg",
       info: "While often classified as abstract expressionism, Guernica also incorporates elements of surrealism. The distorted figures, fragmented shapes, and nightmarish scene evoke the horrors of war in a dreamlike and unsettling manner.",
+      artistInfo:
+        "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
+      artistImg: "./images/artist/pablo.jpg",
     },
   ],
   Tempera: [
@@ -216,6 +231,9 @@ const subGallery = {
       artist: "Pablo Picasso",
       img: "./images/guernica.jpg",
       info: "A preparatory study for Picasso's iconic Guernica painting, done in gouache. It showcases his process and experimentation in creating the powerful masterpiece.",
+      artistInfo:
+        "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
+      artistImg: "./images/artist/pablo.jpg",
     },
     {
       title: "Blue Horse (1912)",
@@ -231,7 +249,7 @@ const subGallery = {
       img: "./images/sunset.jpg",
     },
     {
-      tite: "Waterfalls 2",
+      title: "Waterfalls 2",
       artist: "Ma'am Regina Santos",
       img: "./images/waterfalls 2.jpg",
     },
@@ -261,10 +279,40 @@ function setGallery() {
   })
 }
 
+function setImageInfo(imageInfo) {
+  const imgtype = imageInfo.split("_")[0]
+  const imgTitle = imageInfo.split("_")[1]
+  const imageData = subGallery[imgtype].find((item) => item.title === imgTitle)
+
+  const { info, artist, artistImg, img, artistInfo } = imageData
+  rootElement.innerHTML = `<div class="imageInfo">
+    <div>
+      <p>${imgTitle}</p>
+      <p>${info}</p>
+    </div>
+    <div>
+      <img src="${img}">
+    </div>
+    <div>
+      <img src="${artistImg}">
+    </div>
+    <div>
+      <p>${artist}</p>
+      <p>${artistInfo}</p>
+    </div>
+    <button class="close" id="closeImageInfo">X</button>
+    </div>`
+
+  document
+    .querySelector("#closeImageInfo")
+    .addEventListener("click", () => setSubGallery(imgtype))
+}
+
 function setSubGallery(id) {
   const elements = subGallery[id].map((item) => {
-    return `<div >
+    return `<div class="galleryImages" id="${id}_${item.title}">
         <img src="${item.img}">
+        <p>${item.title}</p>
         </div>`
   })
   rootElement.innerHTML = `<div class="subGalleryItems"><button class="close">X</button>${elements.join(
@@ -273,6 +321,11 @@ function setSubGallery(id) {
 
   const closeButton = document.querySelector(".close")
   closeButton.addEventListener("click", setGallery)
+
+  const images = document.querySelectorAll(".galleryImages")
+  images.forEach((item) => {
+    item.addEventListener("click", () => setImageInfo(item.id))
+  })
 }
 
 setGallery()

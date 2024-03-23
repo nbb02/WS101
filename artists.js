@@ -370,6 +370,175 @@ challenges.`,
     info: "Kahlo, a prominent Mexican artist, is known for her self-portraits that explore themes of identity, gender, and the human experience. Her vibrant style and unflinching portrayal of physical and emotional pain have resonated with audiences worldwide.",
     story:
       "Frida Kahlo's art transcends the boundaries of self-portraiture, becoming a powerful exploration of identity, pain, and the resilience of the human spirit.",
+    arts: [
+      {
+        title: "The Two Fridas",
+        img: "./images/FridaKahlo/two.jpg",
+        info: `This picture was made soon after her divorce from Diego Rivera. This image depicts Frida's two
+          distinct personas. The traditional Frida in Tehuana attire, with a broken heart, sits next to the
+          autonomous, modern Frida. Frida wrote about this picture in her diary, claiming that it was inspired
+          by a childhood acquaintance she never met. She later stated that it was an expression of her despair
+          and loneliness as a result of her separation from Diego.
+          In this picture, two Fridas are holding hands. Both have visible hearts, and the classic Frida's heart
+          has been sliced and torn open. The surgical pincers held in the traditional Frida's lap sliced off the
+          main artery that runs from the ripped heart to her right hand. Her white clothing is flowing with
+          blood, and she is in danger of bleeding to death. The stormy sky with agitated clouds may represent
+          Frida's inner torment. The Instituto Nacional de Bellas Artes (National Institute of Fine Arts) in
+          Mexico City purchased this painting in 1947. At the time, the buying price was 4,000 Pesos (about
+          $1,000), plus 36 Pesos for the frame. That was the highest price Frida had received for a painting
+          during her lifetime.`,
+      },
+      {
+        title: "Frida and Diego Rivera",
+        img: "./images/FridaKahlo/frida-and-diego-rivera.jpg",
+        info: `Frida's artwork of her and Diego depicts the ups and downs of their marriage. She creates Frieda
+        and Diego Rivera, 1931, as a wedding portrait. This was completed after two years of married
+        living. Frida used a stiff attitude in this painting, which was inspired by naive nineteenth-century
+        painters like Jose Maria Estrada, whose work affected Diego Rivera as well. An instructive
+        inscription on a strip in the snout of a pigeon (a device purchased by Frida and Diego from
+        craftsmen such as Estrada and well-known artisans) is as simple in tone as the picture is folkloric
+        in style:
+        Later Frida was to remark:
+        Being the wife of Diego is the most marvelous thing in the world ... I let him play matrimony with
+        other women. Diego is not anybody's husband and never will be, but he is a great comrade."
+        This painting, Frieda and Diego Rivera, depicts what the Riveras' marriage will eventually become.
+        Rivera, as solidly planted as an oak, appears huge next to his wife. He dismisses her, shaking his
+        palette and brushes; he is the wonderful maestro. Frida, whose little feet barely touch the earth,
+        makes a beeline for her great partner. This painting depicts her favorite picture, the genius's adoring
+        wife.
+        She clutched his hand with the softest possible grasp. Frida realized that Diego belonged to
+        nobody. Even while she painted this portrait, Rivera was having an affair with tennis star Helen
+        Wills. He painted her naked image on the ceiling of the Luncheon Club of the Pacific Stock
+        Exchange in San Francisco.`,
+      },
+      {
+        title: "Diego and I",
+        img: "./images/FridaKahlo/diego-and-i.jpg",
+        info: `Diego and I depicts Frida's deep sadness over Diego Rivera. Felix nearly divorced Frida after
+        having an affair with Maria. Maria Felix was a stunning cinema star who was also a close friend
+        of Frida's. Frida was trying to joke about this affair, as she often did with Rivera's earlier affairs,
+        but Diego and I reveal that she was deeply hurt. In this painting, she has loose hair whirling around
+        her neck, indicating strangling. She had misplaced her backup mask. It is clear that the source of
+        her sorrow is her husband Diego, for whom her brows serve as a platform. A third eye appears on
+        her spouse's brow, alluding to Rivera's widespread mental and visual keenness. Only Frida's eyes
+        meet ours in the pyramid of five eyeballs that this artwork depicts. Diego, whose artistic venue
+        was encircling and enormous, looks out above visitors' heads into the past.
+        Frida's diary reveals that Rivera was always on her mind, with most of it being a love sonnet to
+        him: "DIEGO. I am alone." Then a few pages later: "My Diego. I am no longer alone. You
+        accompany me. You put me to sleep and you revive me." She also sketched two faces that resemble
+        vases. "Don't cry at me," one of them warns. In a more romantic moment, she wrote, "Diego,
+        nothing is comparable to your hands and nothing is equal to the gold-green of your eyes. My body
+        fills itself with you for days and days. You are the mirror of the night."
+        The intense light of lightning. The moisture of the ground. Your armpit is my haven. My fingertips
+        make contact with your blood. All my joy is to feel your life spring forth from your fountain-
+        flower, which I keep, to fill all the courses of my nerves that belong to you."`,
+      },
+      {
+        title: "The Broken Column",
+        img: "./images/FridaKahlo/the-broken-column.jpg",
+        info: `Pain and anguish are a recurring theme in Frida's paintings. Frida showed her grief and suffering
+        in the most direct and horrible way in her painting The Broken Column. The nails are embedded
+        in her face and entire body. A split in her torso resembles an earthquake fault. The earth with its
+        black ravines may be seen in the background. She paints herself naked at first, but then covers
+        her lower half with what appears to be a hospital bed sheet.
+        A fractured column is used in place of her spine. The column appears to be about to collapse into
+        rubble. The column, which penetrates from the loins to the chin, has a phallic appearance, and
+        the sexual connotation is amplified by Frida's beautiful breasts and body.
+        Frida's painting appears to be both beautiful and forceful. Despite having her entire body
+        supported by the corset, she conveys a message of spiritual success. She has tears on her face,
+        but she looks straight ahead, urging both herself and her audience to confront her dilemma.`,
+      },
+      {
+        title: "Henry Ford Hospital",
+        img: "./images/FridaKahlo/henry-ford-hospital.jpg",
+        info: `Frida represents herself in Henry Ford Hospital, lying naked on the bed, bleeding profusely. This
+        picture, like Four Inhabitants of Mexico, depicts a very intimate space. The body is twisted, and
+        the bed is tipped up, which adds to the sense of helplessness and detachment. The discomfort
+        was evident in the way she painted her body: from the waist up, she turns toward the observer;
+        from the waist down, she faces away.
+        This picture reflects Frida's feelings while she was experiencing a miscarriage at Henry Ford
+        Hospital. Six items fly around her. A boy fetus, her and Diego's long-awaited son. The fetus is
+        modeled by a medical drawing. An orchid resembles a uterus. The tummy she clutches against
+        the crimson ribbons, which resemble umbilical cords. The snail represents the slowness of the
+        operation.
+        This is also the first painting in which Frida employed sheet metal as a support. Diego Rivera
+        wanted Frida to feel better after her miscarriage, so he encouraged her to attempt painting on tin
+        panels. He suggested she paint the years of her life if she couldn't find anything else to paint.
+        This picture combines truth and fantasy and is depicted in a direct, primitivistic style.`,
+      },
+      {
+        title: "Self-Portrait with Necklace of Thorns",
+        img: "./images/FridaKahlo/self-portrait-with-necklace-of-thorns.jpg",
+        info: `Frida Kahlo painted Self-Portrait with Thorn Necklace and Hummingbird in 1940. Despite its
+        small size (approximately 16x24), this artwork piques people's interest because it contains many
+        features that are indicative of Frida Kahlo. Frida Kahlo confronts the viewer in this photograph,
+        which is set against a background of enormous green leaves and a yellow leaf directly behind her.
+        The thorns wrap around her neck like a necklace, which is clutched by a black monkey. Her neck
+        is wounded from the piercing thorns. A black cat is on the right side, behind her shoulder. A
+        hummingbird is perched on the thorn that wraps around her throat. Her expression is composed
+        and somber. It also appears that she is patiently tolerating the agony.
+        Frida Kahlo included so many metaphorical creatures in this artwork. She wasn't painting a
+        realistic image, but rather employing symbolic components to describe her emotions. A bird
+        frequently represents freedom and life. Especially a beautiful hummingbird that is constantly
+        hovering above flowers. However, in this artwork, the hummingbird appears black and dead. This
+        could be a symbol of Frida herself. Frida suffered from bodily agony for the majority of her life following the bus accident when she was eighteen years old. After that, she suffered roughly thirty-
+        five surgery to correct her body. She has spent several years incapacitated and is unable to bear children. This is a painting depicting her sorrow.`,
+      },
+      {
+        title: "Self-Portrait with Cropped Hair",
+        img: "./images/FridaKahlo/self-portrait.JPG",
+        info: `Frida Kahlo made the artwork "Self-Portrait with Cropped Hair" in 1940. Kahlo's self-portrait
+        depicts her with short hair, wearing a man's suit and tie, and carrying a pair of scissors. The work
+        is a powerful depiction of Kahlo's resistance and independence, as well as her investigation of
+        gender identity and societal expectations.
+        The choice to depict oneself with cropped hair was significant since it represented Kahlo's
+        rejection of traditional gender standards and her assertion of personal freedom. The suit and tie
+        further question traditional notions of femininity and masculinity, blurring the lines between the
+        two. The picture is frequently regarded as a commentary about Kahlo's courage and resilience in
+        the face of adversity, as well as her unwillingness to adhere to societal standards. It is still one of
+        Kahlo's most recognizable and acclaimed paintings, exhibiting her ability to combine personal
+        experience with artistic expression.`,
+      },
+      {
+        title: "The Wounded Deer",
+        img: "./images/FridaKahlo/the-wounded-deer.jpg",
+        info: `Frida utilized a young deer with her head in this painting, and she was severely shot by arrows.
+        The background is a forest with dead trees and broken branches, evoking a sense of terror and
+        desperation. The stormy, lightning-lit sky is far away, providing some hope, but the darling will
+        never be able to get there.
+        In 1946, Frida Kahlo had a spine procedure in New York. She hoped that this surgery would
+        relieve her acute back pain, but it failed. This picture reflected her displeasure about the
+        operation. After returning to Mexico, she had both physical agony and emotional sadness. In this
+        picture, she portrayed herself as a young stag, her head topped with antlers. This young stag has
+        been pierced by arrows and is bleeding. The artist inscribed "Carma" in the lower-left corner,
+        which signifies "destiny" or "fate". Frida, like in her other self-portraits, conveyed her anguish at
+        being unable to change her own fate in this work.
+        Frida painted this portrait with her pet deer, "Granizo" as the model. She had many pets that she
+        used as surrogate children, and deer were her favorite. This picture has been interpreted in
+        various ways by people. Some say she was frustrated by the botched surgery. Others claimed it
+        depicted her inability to control her own destiny. Some individuals suggested it had sexual
+        overtones and mentioned her troubles in various relationships.`,
+      },
+      {
+        title: "Without Hope",
+        img: "./images/FridaKahlo/without-hope.jpg",
+        info: `This painting was created in 1945, when Frida Kahlo was obliged to eat according to her doctor's
+        prescription. In the back of this painting, Frida Kahlo wrote the following explanation:
+        
+        “I have no hope...Everything moves in rhythm with what is in the belly. "
+        Frida Kahlo was suffering from a lack of appetite as a result of her multiple surgeries and illnesses.
+        She got extremely skinny and emaciated. Her doctor, Dr. Eloesser, advised her to stay in bed and
+        eat puréed meals every two hours to gain weight.
+        Frida Kahlo was suffering from a lack of appetite as a result of her multiple surgeries and illnesses.
+        She got extremely skinny and emaciated. Her doctor, Dr. Eloesser, advised her to stay in bed and
+        eat puréed meals every two hours to gain weight.
+        Frida Kahlo's painting reflects her experience with the "forced feeding" diet. The horrible cuisine
+        with animals and skulls was held by the wooden structure that formerly kept her painting canvases.
+        Her arms appear to be pinned underneath, rendering her unable to assist with the issue. The
+        background is a barren Mexican landscape with both the sun and the moon visible. The situation
+        appears to be without hope.`,
+      },
+    ],
   },
   {
     name: "Henri Matisse",
@@ -386,6 +555,142 @@ challenges.`,
     info: "Monet, a leading figure in Impressionism, used light and brushstrokes to capture the essence of a scene rather than realistic details. His iconic 'Water Lilies' series exemplifies his focus on light and atmosphere.",
     story:
       "Monet's innovative techniques and emphasis on capturing a moment in time significantly influenced the course of modern art, inspiring generations of artists to come.",
+    arts: [
+      {
+        title: "Impression, Sunrise",
+        img: "./images/ClaudeMonet/Monet_-_Impression,_Sunrise.jpg",
+        info: `Impression, Sunrise. This famous painting, Impression, Sunrise, was created from a scene in the port of Le Havre.
+        Monet depicts a mist, which provides a hazy background to the piece set in the French harbor. The
+        orange and yellow hues contrast brilliantly with the dark vessels, where little, if any detail is
+        immediately visible to the audience. It is a striking and candid work that shows the smaller boats
+        in the foreground almost being propelled along by the movement of the water. This has, once
+        again, been achieved by separate brushstrokes that also show various colors "sparkling" on the sea.
+        From the 15th April to 15th May 1874 Monet exhibited his work together with Camille Pissarro,
+        Alfred Sisley, Edouard Manet, Paul Cezanne, Edgar Degas, and some other thirty artists. They
+        organized their exhibition on their own as they were usually rejected at the Paris Salon. Most
+        visitors were disgusted and even outraged over such a graffiti. Monet's Impression, Sunrise
+        enjoyed the most attention and some visitors even claimed that they were absolutely unable to
+        recognize what was shown at all.`,
+      },
+      {
+        title: "Woman with a Parasol",
+        img: "./images/ClaudeMonet/woman-with-a-parasol.jpg",
+        info: `Monet stopped painting figures after the 1860s to concentrate on landscapes, Put he returned to
+        the earlier subject in the 1880s. There are many reasons cited for this decision which seem to center
+        around Monet wishing to use a model to pose for a beach scene with nude bathers. It is reported
+        that Alice was less than thrilled with the idea. As a result, Monet still pursued his desire to paint
+        figures, but chose instead to concentrate on clothed members of his large extended family.
+        Woman with a Parasol was painted outdoors, probably in a single session of several hours'
+        duration. The artist intended the work to convey the feeling of a casual family outing rather than a
+        formal portrait, and used pose and placement to suggest that his wife and son interrupted their
+        stroll while he captured their likenesses.
+        
+        In this painting of Camille and his son Jeon, Monet has adopted an unusual low viewpoint, so the
+        artist is looking up at his subject. This has the effect of increasing Camille's import as she fills the
+        upper parts of the canvas, giving her an almost iconic feel. Her skirts appear to whip round with
+        the wind, adding movement to on otherwise static image the small figure of Jeon is used by Monet
+        to balance the overall composition.`,
+      },
+      {
+        title: "Bridge over a Pond of Water Lilies",
+        img: "./images/ClaudeMonet/3bridge1.jpg",
+        info: `Claude Monet's “Bridge over a Pond of Water Lilies” painting is an iconic work of Impressionist
+        art. The painting was created in 1899 and measures 3' 0'' x 2' 5''. It is an oil painting on canvas that
+        is part of Monet's famous series, Water Lilies. This particular piece features the bridge spanning
+        the Giverny water lily pond full of lush foliage. In the background one can see the silhouette of
+        trees reflecting in the calm water which creates a tranquil atmosphere. The use of bright colors
+        such as yellow, orange and green captures the beauty and vitality of this natural setting while also
+        conveying the idea of harmony between man-made structures and nature. As viewers take in all
+        the details, they are drawn into this peaceful scene which encourages contemplation and relaxation.
+        The painting has become one of Monet's most well known works, as it represents his love for
+        nature and his pioneering style known as impressionism. He was influenced by Japanese art which
+        can be seen in the composition of the elements around the bridge. The trees are carefully placed in
+        different positions to create depth and movement within the painting, while their vibrant green
+        coloring gives them life. Atop the bridge stands a figure that is believed to be Leona Davidson,
+        Monet's muse at this time.`,
+      },
+      {
+        title: "San Giorgio Maggiore at Dusk",
+        img: "./images/ClaudeMonet/san-giorgio-maggiore-at-dusk.jpg",
+        info: `San Giorgio Maggiore at Dusk is an oil painting by Claude Monet that was painted in 1908. The
+        painting is owned by National Museum Cardiff, the national art gallery of Wales. The original
+        painting is oil on canvas and the dimension is 65.2cm x 92.4cm (25.7 in x 36.4 in).
+        The term impression signifies the sensory information registered on the retina prior to any
+        recognition of the object. For example, the eye sees tiny black spots before it recognizes them as
+        faraway pedestrians. When you go out to paint, try to forget what objects you have before you, a
+        tree, a house, a field or whatever Monet explained to a neighbor in Giverny, merely think here is
+        a little square of blue, here an oblong of pink, here a streak of yellow, and paint it just as it looks
+        to you, the exact color and shape, until it gives you your own naïve impression of the scene before
+        you.`,
+      },
+      {
+        title: "The Poppy Field",
+        img: "./images/ClaudeMonet/poppies.jpg",
+        info: `Claude Monet painted The Poppy Field near Argenteuil in 1873 on his return from the United
+        Kingdom (in 1871) when he settled in Argenteuil with his family until 1878. It was a time that
+        provided the artist with great fulfillment as a painter, despite the failing health of Camille. Paul
+        Durand-Ruel, Monet's art dealer, helped support him during this time, where he found great
+        comfort from the picturesque landscapes that surrounded him and provided him with plenty of
+        subject matter from which to choose. It was a time that Monet's Plein air works would develop,
+        and this particular painting was shown at the first Impressionist exhibition of 1874.
+        This beautifully depicted summer's day is captured in all its glory with the vibrant poppies
+        complementing the wispy clouds in a clear blue sky. In the landscape, a mother and child pair in
+        the foreground and another in the background are merely a pretext for drawing the diagonal line
+        that structures the painting. Two separate color zones are established, one dominated by red, the
+        other by a bluish-green. The young woman with the sunshade and the child in the foreground is
+        probably the artist's wife, Camille, and their son Jean.`,
+      },
+      {
+        title: "Bouquet of Sunflowers",
+        img: "./images/ClaudeMonet/Bouquet of Sunflowers.jpg",
+        info: `Claude Monet French 1881. In November 1888, Van Gogh wrote: "Gauguin was telling me the other day—that he'd seen a
+        painting by Claude Monet of sunflowers in a large Japanese vase, very fine. But—he likes mine
+        better. I'm not of that opinion." Critics had earlier praised the "brio and daring" of Monet’s
+        technique when he showed this still life, depicting sunflowers that grew along the pathway to his
+        garden at Vétheuil, at the 1882 Impressionist exhibition.`,
+      },
+      {
+        title: "The Water Lilies 1919",
+        img: "./images/ClaudeMonet/WLA_metmuseum_Water_Lilies_by_Claude_Monet.jpg",
+        info: `The Water Lilies is a 1919 painting by impressionist Claude Monet, one of his Water Lilies series.
+        The painting, the left hand panel of a large pair, depicts a scene in Monet's French pond showing
+        light reflecting off the water with water lilies on the surface. It is on display in New York's
+        Metropolitan Museum of Art.
+        One of Monet's larger paintings, it shows the beauty of the sunset reflecting off the water. In 1919,
+        Claude Monet was an elderly man who had already had been painting for almost 70 years, and his
+        Water Lilies series came during a time when he was mainly painting water lilies in his pond, the
+        pond's bridge, and his garden.`,
+      },
+      {
+        title: "The Japanese Footbridge",
+        img: "./images/ClaudeMonet/The-Japanese-Footbridge.jpg",
+        info: `Ten years after moving to Giverny in 1883, Claude Monet envisioned turning a small pond on an
+        adjacent parcel of land into an Asian-influenced water garden. Overcoming the resistance of
+        locals wary of introducing foreign plants into the region, Monet won approval to expand the
+        pond by diverting water from the Epte River. He encircled the basin with a vivacious
+        arrangement of flowers, trees, and bushes, and the next year filled it with water lilies. He added a
+        Japanese-style wooden bridge in 1895, then a few years later started to paint the pond and its
+        water lilies—and never stopped, making them the obsessive focus of his intensely searching
+        work for the next quarter century.`,
+      },
+      {
+        title: "Women in the Garden",
+        img: "./images/ClaudeMonet/women-in-the-garden.jpg",
+        info: `Monet began a large painting of the garden of the property he rented in the Paris suburbs in 1866.
+        The work was so large that a pulley system was required along with a trench - into which the
+        painting could be lowered on the pulley - so that he could work on the upper areas of the canvas.
+        The aim of this work was to discover how figures - within a landscape - could give the impression that air and light moved around them. He organized this by painting shadows, light with purposely-
+        used color, sunshine filtering through the foliage, and reflections glowing through the darker gloom. Camille, it is known, posed for the three figures on the left of the piece, but the faces of all
+        the figures are left vague and are not composed in a portraiture style.
+        Monet has skilfully rendered the white of the dresses, anchoring them firmly in the structure of the
+        composition - a symphony of greens and browns - provided by the central tree and the path.
+        Finished in the studio, the painting was refused by the jury of the 1867 Salon which, apart from
+        the lack of subject and narrative, deplored the visible brushstrokes which is regarded as a sign of
+        carelessness and incompleteness. Women in the Garden was a huge achievement as an early plein
+        air work for Monet, the challenges it had presented were immense, but he overcame them to create
+        this stunning masterpiece.`,
+      },
+    ],
   },
   {
     name: "Andy Warhol",
@@ -459,6 +764,153 @@ challenges.`,
     info: "Vermeer, a master of light and shadow, painted domestic scenes bathed in soft light. His meticulous attention to detail and use of perspective are evident in works like 'Girl with a Pearl Earring' and 'The Milkmaid.'",
     story:
       "Though underappreciated during his lifetime, Vermeer's work has gained immense recognition for its technical mastery and captivating beauty. He continues to inspire artists with his use of light and shadow.",
+    arts: [
+      {
+        title: "The Procuress",
+        img: "./images/JohannesVermeer/procuress.jpg",
+        info: `The Procuress (Dutch: De koppelaarster) is a 1656 oil-on-canvas painting by the then 24-year-
+          old Johannes Vermeer. It can be seen in the Gemäldegalerie Alte Meister in Dresden. It is his
+          
+          first genre painting and shows a scene of contemporary life, an image of mercenary love perhaps in
+          a brothel. It differs from his earlier biblical and mythological scenes. It is one of only three paintings
+          Vermeer signed and dated (the other two are The Astronomer and The Geographer). In 1696 the
+          painting, being sold on an auction in Amsterdam, was named "A merry company in a room".
+          The woman in black, the leering coupler, "in a nun's costume", could be the eponymous procuress,
+          while the man to her right, "wearing a black beret and a doublet with slashed sleeves", has been
+          identified as a self portrait of the artist; there is a resemblance with the painter in Vermeer's The Art
+          of Painting.`,
+      },
+      {
+        title: "The Astronomer",
+        img: "./images/JohannesVermeer/astronomer.jpg",
+        info: `The Astronomer (Dutch: De astronoom) is a painting finished in about 1668 by the Dutch Golden
+          Age painter Johannes Vermeer. It is in oil on canvas with dimensions 51 cm × 45 cm (20 in × 18 in).
+          
+          Johannes Vermeer, The Geographer 1668-69 oil on canvas; 53×47 cm. Steadelsches
+          Kunstinstitut, Frankfurt, Germany. The Geographer used the same model and other elements
+          as The Astronomer.
+          Portrayals of scientists were a favourite topic in 17th-century Dutch painting and Vermeer's oeuvre
+          includes both this astronomer and the slightly later The Geographer. Both are believed to portray the
+          same man, possibly Antonie van Leeuwenhoek.A 2017 study indicated that the canvas for the two
+          works came from the same bolt of material, confirming their close relationship.
+          The painting shows an astronomer looking at a globe. The astronomer's profession is shown by the
+          celestial globe (version by Jodocus Hondius) and the book on the table, the 1621 edition of Adriaan
+          Metius's Institutiones Astronomicae Geographicae. Symbolically, the volume is open to Book III, a
+          section advising the astronomer to seek "inspiration from God" and the painting on the wall shows
+          the Finding of Moses—Moses may represent knowledge and science ("learned in all the wisdom of
+          the Egyptians").`,
+      },
+      {
+        title: "The Geographer",
+        img: "./images/JohannesVermeer/geographer.jpg",
+        info: `The Geographer (Dutch: De geograaf) is a painting created by Dutch artist Johannes Vermeer in
+          1668-1669, and is now in the collection of the Städel museum in Frankfurt, Germany. It is closely
+          related to Vermeer's The Astronomer, for instance using the same model in the same dress, and has
+          sometimes been considered a pendant painting to it. A 2017 study indicated that the canvas for the
+          two works came from the same bolt of material.
+          
+          The geographer, dressed in a Japanese-style robe then popular among scholars, is shown to be
+          "someone excited by intellectual inquiry", with his active stance, the presence of maps, charts, a
+          globe and books, as well as the dividers he holds in his right hand, according to Arthur K. Wheelock
+          Jr. "The energy in this painting [...] is conveyed most notably through the figure's pose, the massing
+          of objects on the left side of the composition, and the sequence of diagonal shadows on the wall to
+          the right."`,
+      },
+      {
+        title: "Woman with a Pearl Necklace",
+        img: "./images/JohannesVermeer/necklace.jpg",
+        info: `Woman with a Pearl Necklace by Johannes Vermeer is a Dutch Golden Age painting of about
+          1664. Painted in oils on canvas, Johannes Vermeer portrayed a young Dutch woman, most likely of
+          upper-class descent, dressing herself with two yellow ribbons, pearl earrings, and a pearl necklace.
+          As a very popular artist of the 17th century, the Dutch Golden Age, Vermeer depicted many women
+          in similar circumstances within interior, domestic scenes. The same woman also appears in The
+          Love Letter and A Lady Writing a Letter.
+          
+          Painted in 1664, this 21 5/8 X 17 3/4 inch scene depicts a young Dutch woman looking left toward a
+          window's light source. Dressed in a yellow, fur-trimmed coat, this young woman most likely comes
+          from an upper-class family. With Vermeer's distinctive style, it incorporates the color yellow, a
+          draped curtain, framed pictures on the walls, a light source from the left, as well as domestic tools,
+          and an expressive profile.`,
+      },
+      {
+        title: "Girl Reading a Letter at an Open Window",
+        img: "./images/JohannesVermeer/reading.jpg",
+        info: `Girl Reading a Letter at an Open Window (Dutch: Brieflezend meisje bij het venster), also known
+          as Lady reading at an open window, is an oil painting by Dutch Golden Age painter Johannes
+          Vermeer. Completed in approximately 1657-1659, the painting is on display at
+          the Gemäldegalerie in Dresden, which has held it since 1742. For many years, the attribution of the
+          painting—which features a young Dutch woman reading a letter before an open window—was lost,
+          with first Rembrandt and then Pieter de Hooch being credited for the work before it was properly
+          identified in 1880. After World War II, the painting was briefly in possession of the Soviet Union. In
+          2017, tests revealed that the painting had been altered after the painter's death.
+          The painting was laboriously restored to its original composition between 2018 and 2021 using
+          scalpel and microscope. It now shows Cupid in a “painting within a painting” on the wall, and since
+          the restoration, hangs at the museum in Dresden as Vermeer painted it.`,
+      },
+      {
+        title: "View of Delft",
+        img: "./images/JohannesVermeer/delft.jpg",
+        info: `View of Delft (Dutch: Gezicht op Delft) is an oil painting by Johannes Vermeer, painted c. 1659–
+        1661. The painting of the Dutch artist's hometown is among his best known. It is one of three known
+        paintings of Delft by Vermeer, along with The Little Street and the lost painting House Standing in
+        Delft, and his only cityscape.
+        
+        ] According to art historian Emma Barker, cityscapes across water,
+        which were popular in the Netherlands at the time, celebrated the city and its trade. Vermeer's View
+        of Delft has been held in the Dutch Royal Cabinet of Paintings at the Mauritshuis in The Hague since
+        its establishment in 1822.`,
+      },
+      {
+        title: "The Little Street (Het Straatje)",
+        img: "./images/JohannesVermeer/street.jpg",
+        info: `The Little Street (Het Straatje) is a painting by the Dutch painter Johannes Vermeer, executed c.
+        1657-1658. It is exhibited at the Rijksmuseum of Amsterdam, and signed, below the window in the
+        lower left-hand corner, "I V MEER".
+        "The Little Street" is a renowned painting by the Dutch Golden Age artist Johannes
+        Vermeer, completed around 1658. It is housed in the Rijksmuseum in Amsterdam. The
+        painting depicts a tranquil and intimate scene of a typical Dutch street corner in the city
+        of Delft. Vermeer's meticulous attention to detail and his mastery of light and shadow
+        are evident in this work.
+        In the painting, a narrow street is bordered by two rows of modest houses with brick
+        facades. The buildings are rendered with precision, showcasing their architectural
+        features such as stepped gables and small windows. The street is paved with
+        cobblestones, and a small patch of grass grows in front of the houses.`,
+      },
+      {
+        title: "The Allegory of Faith",
+        img: "./images/JohannesVermeer/allegory.jpg",
+        info: `The Allegory of Faith, also known as Allegory of the Catholic Faith, is a Dutch Golden Age
+        painting by Johannes Vermeer from about 1670-1672. It has been in the Metropolitan Museum of
+        Art in New York since 1931.
+        This and Art of Painting are his only works that fall under history painting in the
+        contemporary hierarchy of genres, though they still have his typical composition of one or two figures
+        in a domestic interior. Both share several features: the perspective is almost the same, and there is
+        a multicolor tapestry at the left of each painting, pulled to the left to disclose the scene. The Art of
+        Painting also uses symbolism from Cesare Ripa of Clio, muse of history. Vermeer's Love Letter uses
+        a similar gilt panel. The Allegory and The Art of Painting differ markedly in style and purpose from
+        Vermeer's other works.`,
+      },
+      {
+        title: "The Love Letter",
+        img: "./images/JohannesVermeer/letter.jpg",
+        info: `The Love Letter (Dutch: De liefdesbrief) is a 17th-century genre painting by Jan Vermeer. The
+        painting shows a servant maid commenting to her mistress on a letter the woman holds. The
+        painting is in the Rijksmuseum Amsterdam.
+        
+        The tied-up curtain in the foreground creates the impression that the viewer is looking at an intensely
+        private, personal scene. There is also an element of trompe-l'œil as Dutch paintings were often hung
+        with little curtains to conserve them, and the device of painted curtains is seen in other Dutch works
+        
+        of the period. The diagonals on the chequered floor create the impression of depth and three-
+        dimensionality. The fact that it is a love letter that the woman has received is made clear by the fact
+        
+        that she is carrying a cittern, a form of lute used in the period as a symbol of love - often carnal
+        love; luit was also a slang term for vagina. This idea is further reinforced by the slippers at the very
+        bottom of the picture. The removed slipper was another symbol of sex. The floor brush would appear
+        to represent domesticity, and its placement at the side of the painting may suggest that domestic
+        concerns have been forgotten or pushed aside.`,
+      },
+    ],
   },
 ]
 const rootElement = document.querySelector("#root")
@@ -483,7 +935,7 @@ function setImageInfo(data) {
   const infoBox = document.querySelector("#float")
   infoBox.innerHTML = `
   <div>
-  <img src=${data.img} />
+  <img src="${data.img}" />
   <p>${data.artist}</p>
   <p>${data.title}</p>
   </div>

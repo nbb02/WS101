@@ -338,6 +338,125 @@ challenges.`,
     info: "Michelangelo was a true Renaissance man, excelling in sculpture, painting, architecture, and poetry. His iconic works, like the Sistine Chapel ceiling and the David sculpture, showcase his mastery of anatomy and ability to imbue figures with life and emotion.",
     story:
       "Michelangelo's artistic achievements continue to inspire awe centuries later. He is a symbol of artistic genius and the boundless potential of human creativity during the Renaissance era.",
+    arts: [
+      {
+        title: "The Torment of Saint Anthony",
+        img: "/images/MichaelAngelo/The Torment of Saint Anthony.PNG",
+        info: `Michael Angelo (1888) (Rome, Italy)
+      Medium: tempera on panel painting
+      Dimension: 47 cm x 35 cm
+      Credits: Kimbell Art Museum
+      While it may not be one of his most famous works, The Torment of Saint Anthony is essential
+      for the advancement of the talented artist's career. It is the earliest painting he created,
+      completed around 1487 when he was around 12 or 13 years old. During that period, the
+      youthful Michelangelo was gaining experience in the workshop of Domenico Ghirlandaio, a
+      renowned artist from the Florentine school. It is said that Michelangelo planned to study the
+      fish vendors at the market to accurately depict their colorful scales on the demonic
+      creatures. The piece, a copy of a print by German artist Martin Schongauer, brought him
+      significant recognition as it became the initial artwork to be acquired by an American
+      collection.`,
+      },
+      {
+        title: "The Rape of Ganymede",
+        img: "/images/MichaelAngelo/The Rape of Ganymede.jpg",
+        info: `Michael Angelo (1570 - 1630) (Rome, Italy)
+      Type: oil on paper
+      Dimension: 91.2 x 116.7 cm
+      Credits: Fogg Museum (Harvard Art Museums), Cambridge, MA, US
+      Michelangelo made several meticulously detailed mythological drawings for the young
+      nobleman Tommaso de' Cavalieri as signs of their friendship. On this painting, the stories of
+      Greek mythology, Zeus, disguised as an eagle, kidnapped Ganymede, a handsome shepherd
+      boy, and took him to Olympus to be the one who poured drinks for the gods. Ganymede, clad
+      only in a flowing robe, is carried upward by a big black eagle gripping his ankles as he grasps
+      the top of its wings. A small white and brown dog is barking at the flying group while a
+      landscape of ruins can be seen in the distance.`,
+      },
+      {
+        title: "The Punishment of Tityus",
+        img: "/images/MichaelAngelo/The Punishment  of Tityus.jpg",
+        info: `Michael Angelo (1532) (Rome, Italy)
+      Type: Black chalk; charcoal on the verso
+      Dimension: 19 cm x 33.0 cm
+      Credits: Royal Collection
+      
+      The illustration depicts the legendary character Tityus restrained on a massive boulder; at
+      the summit of the boulder appears to be a type of vegetation or tree stem with roots. The
+      trunk seems to show a human face in profile with its mouth wide open, appearing to be
+      screaming. The only thing marking the location is the rock as everything else is empty except
+      for a horizon line. Tityus's body is contorted with his head turned backwards, one arm raised
+      above his head, and the other arm presumably tied near his hip as the hand is not visible; one
+      leg lies flat while the other is at a ninety-degree angle. A vulture, approximately the size of a
+      human, hovers over Tityus. The vulture is hunched over the contorted form of Tityus, its
+      wings outstretched and its head moving towards Tityus' midsection.`,
+      },
+      {
+        title: "The Last Judgement",
+        img: "/images/MichaelAngelo/The Last Judgement.jpg",
+        info: `Michael Angelo (1536 - 1541) (Rome, Italy)
+      Type: fresco painting, painted on the altar wall of Sistine Chapel
+      Dimension: 13.7 m x 12 m
+      Credits: Sistine Chapel Vatican City, Rome, Italy.
+      His artwork was one of the most enormous painting that people can found on the wall behind
+      the altar in the Sistine Chapel in Vatican City. This artwork, is created between 1536 and 1541,
+      it portrays about the return of Christ and the ultimate judgment of souls. On his artwork,
+      Christ is shown at the center, circled by angels, saints, and the resurrected souls.
+      Michelangelo captivates viewers with his intense and emotional scene through his skilled use
+      of color, composition, and anatomy. Michelangelo's grand creation encourages reflection on
+      timeless topics such as redemption, salvation, and divine justice.`,
+      },
+      {
+        title: " The Crucifixion of St. Peter",
+        img: "/images/MichaelAngelo/The Crucifixion of Peter.jpg",
+        info: `Michael Angelo (1546 - 1550) (Rome, Italy)
+      Type: fresco painting, painted on the two main wall of Capella Paolina, Vatican Palace
+      Dimension: 13.7 m x 12 m
+      Credits: Cappella Paolina, Vatican Palace, Vatican City
+      Michelangelo was commissioned by Pope Paul III in 1541 to paint his final fresco during his
+      lifetime, The Crucifixion of St. Peter. Situated in the Pauline Chapel of the Vatican Palace, the
+      painting shows a sorrowful event - the saint being crucified by Roman Empire soldiers. During
+      that period, the scandal was caused by the excessive size of this painting. Nevertheless, these
+      atypical proportions were intentional in order for the images to appear in the correct
+      
+      dimensions when viewed from below by an observer. Michelangelo was famous for his self-
+      confidence. Allegedly, he is depicted with a blue turban in the top left corner of the painting.`,
+      },
+      {
+        title: "The Creation of Adam",
+        img: "/images/MichaelAngelo/The Creation of Adam.jpg",
+        info: `Michael Angelo (1508 - 1512) (Rome, Italy)
+      Type: fresco painting, painted at the ceiling of Sistine Chapel
+      Dimension: 280 cm x 570 cm
+      Credits: Sistine Chapel Vatican City, Rome, Italy.
+      Michelangelo's famous masterpiece, embellishes the ceiling of the Sistine Chapel in Vatican
+      City, Rome. Created from 1508 to 1512, this grand fresco shows the biblical moment from the
+      Book of Genesis when God gives life to Adam, the initial man. The art piece depicts the
+      powerful instant of divine formation, showing God extending his arm towards Adam as he lies
+      in a state of expectation. The artwork is highly praised for its lively arrangement, emotive
+      characters, and profound symbolism, encapsulating the core of mankind's spiritual and
+      existential quest. With his skilled artistry and deep understanding, Michelangelo prompts
+      viewers to ponder the enduring concepts of creation, divinity, and the connection between
+      God and humanity.`,
+      },
+      {
+        title: " Dono Tondi",
+        img: "/images/MichaelAngelo/Doni Tondi.png",
+        info: `Michael Angelo (1506 - 1507) (Florence, Italy)
+      Medium: tempera, oil painting
+      Dimension: 120 cm
+      Credits: National Gallery of London Uffizi, Florence
+      Michelangelo completed Dono Tondi (or Doni Madonna) shortly after finishing his well-known
+      works Pietà and David. The round artwork was created with a combination of oil and tempera,
+      a method that was similarly employed by Sandro Botticelli for The Birth of Venus. Agnolo
+      Doni, a wealthy Florentine, commissioned Dono Tondi for his marriage to Maddalena, a noble
+      Tuscan woman. This 120 cm diameter painting possesses remarkable characteristics. Initially,
+      its round form symbolizes the concept of flawlessness. After that, its shimmering hues. In
+      conclusion, its pyramid-like structure represents the firmness of the Holy Trinity. It is
+      believed that the dramatic poses of the models influenced the development of the Mannerist
+      artistic style, which appeared in Italy during the 1520s. The masterpiece has been part of the
+      Uffizi Gallery's collection since 1635, and it is the sole artwork by the artist exhibited in
+      Florence.`,
+      },
+    ],
   },
   {
     name: "Leonardo da Vinci",

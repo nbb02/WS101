@@ -249,6 +249,9 @@ const subGallery = {
     {
       title: "Two Women in a Garden",
       artist: "Camille Pissarro",
+      artistImg: "./images/Gouache/camille pissaro.jpg",
+      artistInfo: `Jacob Abraham Camille Pissarro (10 July 1830 - 13 November 1903) was a Danish-French Impressionist and Neo-Impressionist painter born on the island of St Thomas (now in the US Virgin Islands, but then in the Danish West Indies). His importance resides in his contributions to both Impressionism and Post-Impressionism. Pissarro studied from great forerunners, including Gustave Courbet and Jean-Baptiste-Camille Corot. He later studied and worked alongside Georges Seurat and Paul Signac when he took on the Neo-Impressionist style at the age of 54.
+      In 1873 he helped establish a collective society of fifteen aspiring artists, becoming the "pivotal" figure in holding the group together and encouraging the other members. Art historian John Rewald called Pissarro the "dean of the Impressionist painters", not only because he was the oldest of the group, but also "by virtue of his wisdom and his balanced, kind, and warmhearted personality".[1] Paul Cézanne said "he was a father for me. A man to consult and a little like the good Lord", and he was also one of Paul Gauguin's masters. Pierre-Auguste Renoir referred to his work as "revolutionary", through his artistic portrayals of the "common man", as Pissarro insisted on painting individuals in natural settings without "artifice or grandeur".`,
       img: "./images/Gouache/Two Women in a Garden.jpg",
       info: `Camille Pissarro (1888) (Ukraine, Russia)
       Medium: Gouache on silk; framing lines in graphite
@@ -265,6 +268,10 @@ const subGallery = {
     {
       title: "The Scarlet Sunset",
       artist: "Joseph Mallord William Turner",
+      artistImg: "./images/Gouache/Joseph Mallord William Turner.jpg",
+      artistInfo: `Joseph Mallord William Turner RA (23 April 1775 - 19 December 1851), known in his time as William Turner, was an English Romantic painter, printmaker and watercolourist. He is known for his expressive colouring, imaginative landscapes and turbulent, often violent marine paintings. He left behind more than 550 oil paintings, 2,000 watercolours, and 30,000 works on paper. He was championed by the leading English art critic John Ruskin from 1840, and is today regarded as having elevated landscape painting to an eminence rivalling history painting.
+
+      Turner was born in Maiden Lane, Covent Garden, London, to a modest lower-middle-class family and retained his lower class accent, while assiduously avoiding the trappings of success and fame. A child prodigy, Turner studied at the Royal Academy of Arts from 1789, enrolling when he was 14, and exhibited his first work there at 15. During this period, he also served as an architectural draftsman. He earned a steady income from commissions and sales, which due to his troubled, contrary nature, were often begrudgingly accepted. He opened his own gallery in 1804 and became professor of perspective at the academy in 1807, where he lectured until 1828. He travelled around Europe from 1802, typically returning with voluminous sketchbooks.`,
       img: "./images/Gouache/The Scarlet Sunset.jpg",
       info: `Joseph Mallord William Turner (1830-1840) (London, England)
       Watercolour and gouache on paper, 134 x 189 mm
@@ -281,6 +288,8 @@ const subGallery = {
     {
       title: "The Adoration of Shepherds",
       artist: "Francois Boucher",
+      artistImg: "./images/Gouache/François Boucher.jpg",
+      artistInfo: `François Boucher (29 September 1703 - 30 May 1770) was a French painter, draughtsman and etcher, who worked in the Rococo style. Boucher is known for his idyllic and voluptuous paintings on classical themes, decorative allegories, and pastoral scenes. He was perhaps the most celebrated painter and decorative artist of the 18th century. A native of Paris, Boucher was the son of a lesser known painter Nicolas Boucher, who gave him his first artistic training. At the age of seventeen, a painting by Boucher was admired by the painter François Lemoyne. Lemoyne later appointed Boucher as his apprentice, but after only three months, he went to work for the engraver Jean-François Cars.`,
       img: "./images/Gouache/The Adoration of the Shepherds.jpg",
       info: `Francois Boucher (1827) (Paris, France)
       Gouache over black chalk underdrawing, on paper, mounted on canvas
@@ -300,6 +309,8 @@ const subGallery = {
     {
       title: "In The Fields",
       artist: "Stepan Feodorovich Kolesnikov",
+      artistImg: "./images/Gouache/Stepan Fedorovich Kolesnikov.webp",
+      artistInfo: `Stepan Feodorovich Kolesnikov was a Russian realist painter. He depicted snow-covered landscapes and rustic farm scenes in both gouache and oil. The peasants in his work are often portrayed working in fields or celebrating religious festivals. Born on July 11, 1879 in Adrianopol, Russian Empire (currently Ukraine) to a peasant family, Kolesnikov studied at the Odessa School of Art before entering the Imperial Academy of Fine Arts in 1903. In school, he received several awards for his work, winning him the acclaim of the famed painter Ilya Repin. Notably, Kolesnikov was a favorite artist of Tsar Nicolas II, the last Emperor of Russia, who once gifted him an engraved cigarette case. After the Russian revolution, the artist moved to the Balkans, settling in Belgrade, where he lived for the rest of his life. Kolesnikov died on May 27, 1955 in Belgrade, Yugoslavia. His works are in the collections of the Pushkin State Museum of Fine Arts in Moscow and the Odessa Fine Arts Museum.`,
       img: "./images/Gouache/In The Fields.jpg",
       info: `Stepan Feodorovich Kolesnikov (1919) (Ukraine, Russia)
       Medium: Gouache on board
@@ -318,6 +329,10 @@ const subGallery = {
     {
       title: "Colburns Butte South Utah",
       artist: "Thomas Moran",
+      artistImg: "./images/Gouache/Thomas_Moran.jpg",
+      artistInfo: `Thomas Moran (February 12, 1837 - August 25, 1926) was an American painter and printmaker of the Hudson River School in New York whose work often featured the Rocky Mountains. Moran and his family, wife Mary Nimmo Moran and daughter Ruth took residence in New York where he obtained work as an artist. He was a younger brother of the noted marine artist Edward Moran, with whom he shared a studio. A talented illustrator and exquisite colorist, Thomas Moran was hired as an illustrator at Scribner's Monthly. During the late 1860s, he was appointed the chief illustrator for the magazine, a position that helped him launch his career as one of the premier painters of the American landscape, in particular, the American West.
+
+      Moran along with Albert Bierstadt, Thomas Hill, and William Keith are sometimes referred to as belonging to the Rocky Mountain School of landscape painters because of all of the Western landscapes made by this group.`,
       img: "./images/Gouache/Thomas-Moran-Colburns-Butte-South-Utah-1873.jpg",
       info: `Thomas Moran (1873) (United States)
       Medium: Watercolor, gouache and graphite on off-white wove paper
@@ -334,6 +349,10 @@ const subGallery = {
     {
       title: "Boating Party 1899",
       artist: "Albert Beck Wenzell",
+      artistImg: "./images/Gouache/albert beck wenzell.webp",
+      artistInfo: `The Bell Époche, prior to World War I, was a prosperous and extravagant era when royalty governed most of Europe. At the same time in the United States, great fortunes were being made through unfettered trusts and monopolies, creating a class of Nouveau Riche. This ambitious society of Robber Barons and their social climbing wives was just as stratified as their real European counterparts, but lacked the accompanying pedigrees. During this period there was a beneficial intermingling of interests. American families sought tittles through arranged marriages of their daughters, and the lavish lifestyles of eligible counts and crown princes required infusions of cash.
+
+      No American artist better presented that colorful era than Albert Beck Wenzell. From a wealthy family himself and with solid academic training in Munich and in Paris he knew his subjects well and could paint them with great authority. His opulently gowned, imperious, and always-beautiful young women were depicted with a dazzling display of artful exaggeration; the young men wore their colorful uniforms or full dress with an assured careless swagger.`,
       img: "./images/Gouache/Boating Party.jpg",
       info: `Albert Beck Wenzell (1899) (London)
       Medium: Gouache and Ink on Paper
@@ -350,6 +369,10 @@ const subGallery = {
     {
       title: "Blessed Are Those Who Have",
       artist: "Adolp Von Menzel",
+      artistImg: "./images/Gouache/Adolph_von_Menzel.jpg",
+      artistInfo: `Adolph Friedrich Erdmann von Menzel (8 December 1815 - 9 February 1905) was a German Realist artist noted for drawings, etchings, and paintings. Along with Caspar David Friedrich, he is considered one of the two most prominent German painters of the 19th century, and was the most successful artist of his era in Germany.First known as Adolph Menzel, he was knighted in 1898 and changed his name to Adolph von Menzel.
+
+      His popularity in his native country, owing especially to his history paintings, was such that few of his major paintings left Germany, as many were quickly acquired by museums in Berlin. Menzel's graphic work (and especially his drawings) were more widely disseminated; these, along with informal paintings not initially intended for display, have largely accounted for his posthumous reputation.`,
       img: "./images/Gouache/Blessed are those who have.jpg",
       info: `Adolp Von Menzel (1888) (Berlin, Germany)
       Gouache on paper, 27.5 cm x 21.5 cm
@@ -363,6 +386,8 @@ const subGallery = {
     {
       title: "Fidelia Bridges",
       artist: "Bird's Nest in Cattails",
+      artistImg: "./images/Gouache/Fidelia_Bridges.jpg",
+      artistInfo: `Fidelia Bridges (May 19, 1834 - May 14, 1923) was an American artist of the late 19th century. She was known for delicately detailed paintings that captured flowers, plants, and birds in their natural settings. Although she began as an oil painter, she later gained a reputation as an expert in watercolor painting. She was the only woman among a group of seven artists in the early years of the American Watercolor Society. Some of her work was published as illustrations in books and magazines and on greeting cards.`,
       img: "./images/Gouache/Fidelia Bridges Bird's Nest in Cattails.jpg",
       info: `Fidelia Bridges (1875) (United States)
       Medium: Watercolor and gouache on light brown wove paper
@@ -377,6 +402,9 @@ const subGallery = {
     {
       title: "A Rocky Coast",
       artist: "William Trost Richards",
+      artistImg: "./images/Gouache/William_Trost_Richards.png",
+      artistInfo: `Richards was born on November 14, 1833, in Philadelphia, Pennsylvania.In 1846 and 1847, he attended the local Central High School. Between 1850 and 1855, he studied part-time with the German artist Paul Weber, while working as designer and illustrator of ornamental metalwork. Richards's first public exhibit was part of an exhibition in New Bedford, Massachusetts, organized by artist Albert Bierstadt in 1858.
+      In 1862, he was elected honorary member of the National Academy of Design and was elected as an Academician in 1871. In 1863, he became a member of the Association for the Advancement of Truth in Art. In 1866, he departed for Europe for one year. Upon his return and for the following six years, he spent the summers on the East Coast.`,
       img: "./images/Gouache/A Rocky Coast.jpg",
       info: `William Trost Richards (1877) (United States)
       Medium: Watercolor and gouache on fibrous brown wove paper

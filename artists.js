@@ -467,9 +467,76 @@ challenges.`,
       "Leonardo da Vinci's insatiable curiosity and pursuit of knowledge in various fields made him a true Renaissance Man. His artistic and scientific contributions continue to influence and inspire generations.",
     arts: [
       {
-        title: "The Torment of Saint Anthony",
-        img: "/images/",
-        info: ``,
+        title: "The Vitruvian Man ",
+        img: "/images/LeonardoDaVinci/the-vitruvian-man.jpg",
+        info: `The Vitruvian Man (Italian: Le proporzioni del corpo umano secondo Vitruvio, which is translated to "The
+        proportions of the human body according to Vitruvius"), or simply L'Uomo Vitruviano (Italian), is a drawing by Leonardo da Vinci around 1490. It is accompanied
+        by notes based on the work of the architect Vitruvius. The drawing, which is in pen and ink on paper,
+        depicts a man in two superimposed positions with his arms and legs apart and inscribed in a circle and
+        square. The drawing and text are sometimes called the Canon of Proportions or, less often, Proportions
+        of Man. It is kept in the Gabinetto dei disegni e stampe of the Gallerie dell'Accademia, in Venice, Italy,
+        under reference 228. Like most works on paper, it is displayed to the public only occasionally, so it isn't
+        part of the normal exhibition of the museum.`,
+      },
+      {
+        title: "Lady with an Ermine",
+        img: "/images/LeonardoDaVinci/Lady with an Ermine.jpg",
+        info: `The portrait Lady with an ermine (1489-1490) by Leonardo Da Vinci depicts Cecilia Gallerani, the
+      teenage mistress of Ludovico Sforza, the regent and later the Duke of Milan. While some scholars
+      doubted this identification, ample evidence affirms Cecilia Gallerani is the subject of Lady with an
+      ermine. The earliest mention of the portrait appears in a sonnet by court poet Bernardo Bellincioni, in
+      which he notes that it seems as if Cecilia is listening to an unseen speaker. Further confirmation exists in
+      a correspondence between Cecilia and Isabella d'Este, the marquise of Mantua. In her letter, the
+      marquise asks Cecilia to send her the portrait so she can compare Leonardo's work to that of another
+      master, Giovanni Bellini. Most importantly, the correspondence reveals that although Ludovico
+      commissioned the painting, Cecilia owned it.`,
+      },
+      {
+        title: "Madonna Litta",
+        img: "/images/LeonardoDaVinci/Madonna Litta.jpg",
+        info: `The Madonna Litta, attributed to Leonardo da Vinci or his workshop, portrays the Virgin Mary cradling the
+      infant Jesus with tender grace. Mary's serene countenance exudes maternal love and divine reverence as
+      she gazes down at her child, her expression suffused with a sense of timeless devotion. Jesus, depicted as
+      a playful yet contemplative infant, reaches out to his mother or grasps her hand, symbolizing the intimate
+      bond between mother and son. The backdrop, typically minimalistic, offers a tranquil setting that
+      accentuates the central figures' significance.`,
+      },
+      {
+        title: "The Madonna of the Carnation",
+        img: "/images/LeonardoDaVinci/Madonna of the Carnation.jpg",
+        info: `The Madonna of the Carnation, a.k.a. Madonna with Vase or Madonna with Child, is a Renaissance oil
+      painting by Leonardo da Vinci created around 1478-1480. It is permanently displayed at the Alte
+      Pinakothek gallery in Munich, Germany.
+      The central and centered motif is the young Virgin Mary seated with Baby Jesus on her lap. Depicted in
+      precious clothes and jewellery, with her left hand Mary holds a carnation (interpreted as a healing
+      symbol). The faces are put into light while all other objects are darker, e.g. the carnation is covered by a
+      shadow. The child is looking up, the mother is looking down — there is no eye contact. The setting of the
+      portrait is a room with two windows on each side of the figures.`,
+      },
+      {
+        title: "Mona Lisa",
+        img: "/images/LeonardoDaVinci/Mona Lisa.jpg",
+        info: `One of the most iconic and recognizable paintings in the world is the Mona Lisa (ca. 1503-1519) painted
+      by Leonardo da Vinci. The unique appeal of the portrait lies in its enigmatic nature, Mona Lisa's smile
+      radiates mystery, sensuality and contentment. This was achieved through sfumato, Leonardo's painting
+      technique that softened the transition between colors. This depth and complexity of expression is the
+      reason the Mona Lisa is regarded as the pinnacle of portraiture. The interest in the portrait was further
+      amplified by its mysterious history: the identity of the sitter, who commissioned the painting, how long
+      Leonardo worked on the portrait and how it entered the French royal collection are all topics of scholarly
+      debate.`,
+      },
+      {
+        title: "The Last Supper",
+        img: "/images/LeonardoDaVinci/The Last Supper.jpg",
+        info: `One of the most famous paintings in the world, The Last Supper by Leonardo da Vinci was painted in the
+      late 15th century for the Dominican monastery Santa Maria delle Grazie in Milan. The wall painting was
+      commissioned by the Duke of Milan, Ludovico Sforza, who was Leonardo's patron during his first extended
+      stay in Milan.
+      The composition of The Last Supper is neatly arranged - Jesus is positioned in the center of a long table
+      and the Apostles are to his left and right. The room is relatively plain: dark tapestries cover the walls on
+      either side, while three windows on the back wall reveal a landscape that recalls the countryside of Milan.
+      Leonardo created the illusion of space by using linear perspective - a technique in which all parallel lines
+      in the painting converge in a single vanishing point.`,
       },
     ],
   },
@@ -480,6 +547,66 @@ challenges.`,
     info: "Rembrandt, a leading figure of the Dutch Golden Age, is renowned for his use of light and shadow (chiaroscuro) to create dramatic effects. His portraits, including The Night Watch, capture the essence of his subjects with remarkable depth and psychological insight.",
     story:
       "Rembrandt's innovative use of light and shadow revolutionized portraiture and continues to influence artists. His ability to capture the complexities of the human experience resonates deeply with viewers across centuries.",
+    arts: [
+      {
+        title: "Belshazzar's Feast",
+        img: "./images/Rembrandt/Belshazzar_s Feast.jpg",
+        info: `Rembrandt based this painting off of the story of Belshazzar as well as the writing on the wall in Book of
+        Daniel in the Old Testament. Although Amsterdam was part of the Holy Roman Empire at the time, it
+        also had a large Jewish population, and so this is a story of which many of Rembrant’s contemporaries
+        would have been familiar. The artist's intention at the time was to create a portrait of a religious story to
+        which the public, who were largely illiterate, could refer. Rembrandt produced many stories from the
+        bible for the same purpose, including Return of the Prodigal Son and Christ with the Sick around Him.`,
+      },
+      {
+        title: "The Night Watch",
+        img: "./images/Rembrandt/The Night Watch.jpg",
+        info: `The best known work by Rembrandt, this painting resides at the State Museum in Amsterdam, where it is
+        lauded as one of the most famous paintings in the world. For much of its history, the painting was covered
+        with a thick layer of varnish, giving the impression that it was a night scene, hence the name. The varnish
+        was removed in 1940, revealing the bright colors of the painting. The painting has also suffered damage
+        at the hand of art dealers, who in 1715 cut the painting down on three side on order to fit it between two
+        columns, and vandals, who have purposely tried to ruin the painting. In 1975, an unemployed school
+        teacher attacked the work, leaving a large section of zig-zags scratches. The painting was successfully
+        restored, although the scratches are still somewhat visible. In 1990, the painting was attacked again, by a
+        man who threw acid on the canvas. The acid was quickly neutralized, however, and the painting was
+        saved.`,
+      },
+      {
+        title: "The Prodigal Son in the Brothel",
+        img: "./images/Rembrandt/The Prodigal Son in the Brothel.jpg",
+        info: `The Prodigal Son in the Brothel is a painting by the Dutch master Rembrandt. It is housed in the
+        Gemäldegalerie Alte Meister of Dresden, Germany. It is signed "REMBRANDT F.".
+        It portrays two people who had been identified as Rembrandt himself and his wife Saskia. In the Protestant
+        contemporary world, the theme of the prodigal son was a frequent subject for works of art due to its
+        moral background. Rembrandt himself painted a Return of the Prodigal Son in 1669.
+        The left side of the canvas was cut, perhaps by the artist himself, to remove secondary characters and
+        focus the observer's attention on the main theme.
+        
+        The pigment analysis shows Rembrandt's choice of the usual baroque pigments such as red ochre, lead-
+        tin-yellow, madder lake and smalt and also his elaborate multilayer painting technique.`,
+      },
+      {
+        title: "Saskia van Uylenburgh as Flora",
+        img: "./images/Rembrandt/Saskia van Uylenburgh as Flora.jpg",
+        info: `Rembrandt painted his wife Saskia van Uylenburgh as Flora, goddess of spring and flowers, three times:
+        in 1634,1635 and 1641. In this work he combined elements of pastoral and historical portraits. Created in
+        the year of their marriage, this painting shows the love and admiration the artist felt for the young woman.
+        The contrast between the young sitter's diffident pose and the sumptuousness of her richly embroidered
+        clothes and accessories gives the image a special charm.`,
+      },
+      {
+        title: "The Storm on the Sea of Galilee",
+        img: "./images/Rembrandt/The Storm on the Sea of Galilee.jpg",
+        info: `The Storm on the Sea of Galilee is the only seascape ever painted by Rembrandt. It depicts Jesus calming
+        the waves of the sea, saving the lives of the fourteen men aboard the vessel. Of these fourteen men, it is
+        said Rembrandt included a self portrait of himself in the boat, next to Jesus and his twelve disciples. On
+        March 18, 1990, the painting was stolen by thieves disguised as police officers. They broke into the Isabella
+        Stewart Gardener Museum in Boston, Massachusetts, and stole this painting, along with twelve other
+        works. The paintings have never been recovered, and it is considered the biggest art theft in history. The
+        empty frames of the paintings still hang in their original location, waiting to be recovered.`,
+      },
+    ],
   },
   {
     name: "Salvador Dalí",
@@ -488,6 +615,67 @@ challenges.`,
     info: "Dalí, a prominent figure in Surrealism, is known for his dreamlike paintings that explore the subconscious mind. His melting clocks and elongated figures, like those in The Persistence of Memory, challenge our perception of reality.",
     story:
       "Dalí's work continues to captivate viewers with its dreamlike imagery and exploration of the human psyche. He is a key figure in Surrealism, a movement that challenged artistic conventions and delved into the subconscious.",
+    arts: [
+      {
+        title: "The Disintegration of the Persistence of Memory",
+        img: "./images/SalvadorDali/The Disintegration of the Persistence of Memory.jpg",
+        info: `Dali repeated his theme of the melting watches many times, most notably in the 1950's with The
+        Disintegration of the Persistence of Memory. Although it measures a small 10 by 13 inches, it is full of
+        allusions to the first painting, albeit with a flooded landscape, depicting the changes in the landscape from
+        both above and below the water. Whereas some interpretations of the first work claim that it represents
+        Einstein's theory of relativity, interpretations of this work state that it represents the newly emerging
+        ideas of quantum mechanics and the coming of the digital age. Later in his career Dali also created many
+        lithographs and sculptures with variants on the theme of soft watches.`,
+      },
+      {
+        title: "Young Virgin Auto-Sodomized by Her Own Chastity",
+        img: "./images/SalvadorDali/Young Virgin Auto-Sodomized by Her Own Chastity.jpg",
+        info: `This painting documents Dali's interest in exaggerating the representation of the female form and the
+        possibilities of an abstracted background. The main force within the painting is clearly its sexual allusion:
+        the horned shapes hovering around the woman are overtly phallic, and the painting's title offers a direct
+        clue about the aggressively sexual tone of the work. Dali's preoccupation with the phallus was a central
+        theme throughout his career, though the degrees to which his works were representational or abstract
+        differed period to period.`,
+      },
+      {
+        title:
+          "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening",
+        img: "./images/SalvadorDali/Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening.jpg",
+        info: `Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening (1944) is a
+        surrealist painting by Salvador Dalí. A short, alternate title for the painting is Dream Caused by the Flight
+        of a Bee. It was painted in 1944, while Dalí and his wife, Gala, were living in America.
+        
+        In this "hand-painted dream photograph", as Dalí generally called his paintings, there is a seascape of
+        distant horizons and calm waters, perhaps Port Lligat, amidst which Gala is the subject of the scene. Next
+        to the naked body of the sleeping woman, which levitates above a flat rock that floats above the sea, Dalí
+        depicts two suspended droplets of water and a pomegranate, a Christian symbol of fertility and
+        resurrection. Above the pomegranate flies a bee, an insect that traditionally symbolizes the Virgin.`,
+      },
+      {
+        title: "The Persistence of Memory",
+        img: "./images/SalvadorDali/The Persistence of Memory.jpg",
+        info: `The Persistence of Memory (1931) is one of the most iconic and recognizable paintings of Surrealism.
+        Frequently referenced in popular culture, the small canvas (24x33 cm) is sometimes known as “Melting
+        Clocks”, “The Soft Watches” and “The Melting Watches”. The painting depicts a dreamworld in which
+        common objects are deformed and displayed in a bizarre and irrational way: watches, solid and hard
+        objects appear to be inexplicably limp and melting in the desolate landscape. Dalí paints his fantastical
+        vision in a meticulous and realistic manner: he effortlessly integrates the real and the imaginary in order
+        “to systemize confusion and thus to help discredit completely the world of reality”.`,
+      },
+      {
+        title: "The Great Masturbator",
+        img: "./images/SalvadorDali/The Great Masturbator.jpg",
+        info: `The Great Masturbator (1929) is an autobiographical painting, in which the artist addresses his anxieties,
+        fears, and sexual obsessions. At the center of the painting is a large amorphous form that is a distorted
+        self-portrait of the artist: Dalí depicts himself with his eyes shut and a large grasshopper placed on his
+        mouth. Similar versions of the self-portrait appear in Dalí's other paintings including the famous
+        masterpiece The Persistence of Memory (1931). According to Dalí, he based the self-portrait on a rock
+        formation in Cap de Creus, located along the shore of his homeland, Catalonia. Some scholars have also
+        drawn a parallel between the self-portrait and a section of Hieronymus Bosch's The Garden of Earthly
+        Delights (1510-1515) - on the right side of the left panel Bosch depicts rocks, bushes, and small animals
+        that resemble the profile with the prominent nose and long eyelashes.`,
+      },
+    ],
   },
   {
     name: "Frida Kahlo",
@@ -771,7 +959,7 @@ challenges.`,
         img: "./images/ClaudeMonet/Bouquet of Sunflowers.jpg",
         info: `Claude Monet French 1881. In November 1888, Van Gogh wrote: "Gauguin was telling me the other day—that he'd seen a
         painting by Claude Monet of sunflowers in a large Japanese vase, very fine. But—he likes mine
-        better. I'm not of that opinion." Critics had earlier praised the "brio and daring" of Monet’s
+        better. I'm not of that opinion." Critics had earlier praised the "brio and daring" of Monet's
         technique when he showed this still life, depicting sunflowers that grew along the pathway to his
         garden at Vétheuil, at the 1882 Impressionist exhibition.`,
       },
@@ -825,6 +1013,13 @@ challenges.`,
     info: "Warhol blurred the lines between high and low culture by incorporating popular imagery from Campbell's Soup Cans to Marilyn Monroe into his art. He used repetition and bold colors to challenge traditional notions of art.",
     story:
       "Warhol's work serves as a commentary on our consumerist society and the rise of mass media. His art continues to spark conversations about fame, identity, and the ever-changing cultural landscape.",
+    arts: [
+      { title: "", img: "./images/AndyWarhol", info: `` },
+      { title: "", img: "./images/AndyWarhol", info: `` },
+      { title: "", img: "./images/AndyWarhol", info: `` },
+      { title: "", img: "./images/AndyWarhol", info: `` },
+      { title: "", img: "./images/AndyWarhol", info: `` },
+    ],
   },
   {
     name: "Edvard Munch",

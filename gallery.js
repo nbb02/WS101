@@ -56,6 +56,8 @@ const subGallery = {
       artist: "Juan Gris",
       img: "./images/bottle.jpg",
       info: `In 1913 Juan Gris began using the technique of papier collé developed by Georges Braque and Pablo Picasso, with whom he had been working in close contact since 1911. By 1914 Gris’s handling of the technique was personal and sophisticated, as evidenced by works such as Bottle of Rum and Newspaper, executed in Paris shortly before he left for Collioure at the end of June. Here the pasted elements overlap and intermesh with one another in relationships calculated with mathematical rigor. These collaged papers cover the entire surface of the canvas, simultaneously forming an abstract composition and serving as a multilayered support for naturalistic details.`,
+      artistInfo: `One of Gertrude Stein's favorite artists, and the only Cubist talented enough to make Picasso uncomfortable, Juan Gris built upon the foundations of early Cubism and steered the movement in new directions. A member of the tight-knit circle of avant-garde artists working in Paris, Gris adopted the radically fragmented picture spaces of Pablo Picasso and Georges Braque, imparting to his works a bold, graphic look. Gris's paintings are immediately distinguishable from theirs, informed by his background as an illustrator, with a slick, almost commercial appearance, and crisp design elements throughout.`,
+      artistImg: "/images/Cubism/Juan Gris.jpg",
     },
     {
       title: "Head of a Woman",
@@ -71,12 +73,14 @@ const subGallery = {
       artist: "Georges Braque",
       img: "./images/violin.jpg",
       info: `Violon et verre was painted in Paris in the spring of 1913, at the height of Braque's friendship with Picasso and at the climax of an intense debate and rivalry concerned with painting and the ideas of Cubism. It was in Sorgues in September 1912 that Braque, working alongside Picasso, had made the discovery of the papier coll technique, where materials from the everyday world, such as newspaper, wallpaper and oilcloth were placed on the canvas surface. As Golding has observed,`,
+      artistInfo: `Georges Braque 13 May 1882 - 31 August 1963) was a major 20th-century French painter, collagist, draughtsman, printmaker and sculptor. His most notable contributions were in his alliance with Fauvism from 1905, and the role he played in the development of Cubism. Braque's work between 1908 and 1912 is closely associated with that of his colleague Pablo Picasso. Their respective Cubist works were indistinguishable for many years, yet the quiet nature of Braque was partially eclipsed by the fame and notoriety of Picasso`,
+      artistImg: "./images/Cubism/Georger Braque.jpg",
     },
     {
       title: "Guernica",
       artist: "Pablo Picasso",
       img: "./images/guernica.jpg",
-      info: `Guernica, a large black-and-white oil painting executed by Spanish artist Pablo Picasso in 1937 following the German bombing of Guernica, a city in Spain’s Basque region. The complex painting received mixed reviews when it was shown in the Spanish Republic Pavilion at the world’s fair in Paris, but it became an icon as it traveled the world in ensuing years, raising controversies on its meaning and its rightful home.`,
+      info: `Guernica, a large black-and-white oil painting executed by Spanish artist Pablo Picasso in 1937 following the German bombing of Guernica, a city in Spain’s Basque region. The complex painting received mixed reviews when it was shown in the Spanish Republic Pavilion at the world's fair in Paris, but it became an icon as it traveled the world in ensuing years, raising controversies on its meaning and its rightful home.`,
       artistInfo:
         "Picasso's relentless exploration and innovation continue to inspire artists to push boundaries. His vast and diverse body of work reflects the artistic movements of his time and his own boundless creativity.",
       artistImg: "./images/artist/pablo.jpg",
@@ -97,6 +101,8 @@ const subGallery = {
       artist: "Wassily Kandinsky",
       img: "./images/composition.jpg",
       info: "A landmark piece of abstract art, considered one of the first entirely non-representational paintings. Kandinsky believed colors and shapes could evoke emotions and spiritual experiences.",
+      artistImg: "./images/Abstract/Wassily Kandinsky.png",
+      artistInfo: `Wassily Wassilyevich Kandinsky (16 December [O.S. 4 December] 1866 - 13 December 1944) was a Russian painter and art theorist. Kandinsky is generally credited as one of the pioneers of abstraction in western art. Born in Moscow, he spent his childhood in Odessa, where he graduated from Odessa Art School. He enrolled at the University of Moscow, studying law and economics. Successful in his profession, he was offered a professorship (chair of Roman Law) at the University of Dorpat (today Tartu, Estonia). Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.`,
     },
     {
       title: "Guernica (1937)",
@@ -112,18 +118,24 @@ const subGallery = {
       artist: "Jackson Pollock",
       img: "./images/number.jpg",
       info: "A classic example of drip painting, known for its energy and freedom. Pollock dripped, flicked, and poured paint onto the canvas.",
+      artistImg: "./images/Abstract/Jackson_Pollock.jpg",
+      artistInfo: `Paul Jackson Pollock (January 28, 1912 - August 11, 1956) was an American painter. A major figure in the abstract expressionist movement, Pollock was widely noticed for his "drip technique" of pouring or splashing liquid household paint onto a horizontal surface, enabling him to view and paint his canvases from all angles. It was called all-over painting and action painting, since he covered the entire canvas and used the force of his whole body to paint, often in a frenetic dancing style. This extreme form of abstraction divided the critics: some praised the immediacy of the creation, while others derided the random effects.`,
     },
     {
       title: "Black Square (1915)",
       artist: "Kazimir Malevich",
       img: "./images/black.jpg",
       info: "A key work of Suprematist art, a movement that sought to create a new visual language based on basic geometric shapes and pure colors. Black Square is a simple yet powerful work with many interpretations.",
+      artistImg: "./images/Abstract/Kazimir Malevich.jpg",
+      artistInfo: `Kazimir Severinovich Malevich (23 February 1879[1] - 15 May 1935) was a Russian avant-garde[nb 2] artist and art theorist, whose pioneering work and writing influenced the development of abstract art in the 20th century.[He was born in Kiev, modern-day Ukraine, to an ethnic Polish family. His concept of Suprematism sought to develop a form of expression that moved as far as possible from the world of natural forms (objectivity) and subject matter in order to access "the supremacy of pure feeling and spirituality.Active primarily in Russia, Malevich was a founder of the artists collective UNOVIS and his work has been variously associated with the Russian avant-garde and the Ukrainian avant-garde, and he was a central figure in the history of modern art in Central and Eastern Europe more broadly.`,
     },
     {
-      title: "Water Lilies series",
+      title: "Water Lilies",
       artist: "Claude Monet",
       img: "./images/water.jpg",
       info: "A beautiful example of how abstraction can capture the essence of a subject. Monet focuses on light, color, and reflection, blurring the lines between representation and abstraction.",
+      artistImg: "./images/Abstract/Claude_Monet.jpg",
+      artistInfo: `Oscar-Claude Monet (14 November 1840 - 5 December 1926) was a French painter and founder of impressionist painting who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions of nature, especially as applied to plein air (outdoor) landscape painting.`,
     },
   ],
   Pop: [
@@ -132,30 +144,40 @@ const subGallery = {
       artist: "Andy Warhol",
       img: "./images/campbell.jpg",
       info: "An iconic pop art piece featuring 32 canvases, each displaying a Campbell's Soup can in various flavors. It challenged traditional notions of high and low art, and explored consumerism in everyday life.",
+      artistImg: "./images/Pop/Andy_Warhol.jpg",
+      artistInfo: `Andy Warhol (August 6, 1928 - February 22, 1987) was an American visual artist, film director, producer, and leading figure in the pop art movement. His works explore the relationship between artistic expression, advertising, and celebrity culture that flourished by the 1960s, and span a variety of media, including painting, silkscreening, photography, film, and sculpture. Some of his best-known works include the silkscreen paintings Campbell's Soup Cans (1962) and Marilyn Diptych (1962), the experimental films Empire (1964) and Chelsea Girls (1966), and the multimedia events known as the Exploding Plastic Inevitable (1966-67).`,
     },
     {
       title: "Drowning Girl (1963)",
       artist: "Roy Lichtenstein",
       img: "./images/drowning.jpg",
       info: "A pop art masterpiece inspired by a comic book panel. Lichtenstein's use of bold outlines, flat colors, and Ben-Day dots creates a unique visual style that captures the essence of pop culture imagery.",
+      artistImg: "./images/Pop/Roy_Lichtenstein.jpg",
+      artistInfo: `Roy Fox Lichtenstein (October 27, 1923 - September 29, 1997) was an American pop artist. During the 1960s, along with Andy Warhol, Jasper Johns, and James Rosenquist, he became a leading figure in the new art movement. His work defined the premise of pop art through parody. Inspired by the comic strip, Lichtenstein produced precise compositions that documented while they parodied, often in a tongue-in-cheek manner. His work was influenced by popular advertising and the comic book style. His artwork was considered to be "disruptive". He described pop art as "not 'American' painting but actually industrial painting". His paintings were exhibited at the Leo Castelli Gallery in New York City.`,
     },
     {
       title: "Balloon Dog (1994)",
       artist: "Jeff Koons",
       img: "./images/baloon.jpg",
       info: "A playful and iconic sculpture resembling a brightly colored balloon dog, crafted from reflective stainless steel. Koons challenges traditional notions of sculpture and explores themes of mass production and consumerism.",
+      artistImg: "./images/Pop/Jeff_Koons.JPG",
+      artistInfo: `Jeffrey Lynn Koons ( born January 21, 1955) is an American artist recognized for his work dealing with popular culture and his sculptures depicting everyday objects, including balloon animals produced in stainless steel with mirror-finish surfaces. He lives and works in both New York City and his hometown of York, Pennsylvania. His works have sold for substantial sums, including at least two record auction prices for a work by a living artist: US$58.4 million for Balloon Dog (Orange) in 2013 and US$91.1 million for Rabbit in 2019.`,
     },
     {
       title: "Love (1965)",
       artist: "Robert Indiana",
       img: "./images/love.jpg",
       info: "A widely recognized pop art piece featuring the word `LOVE` in bold, primary colors stacked on top of each other. It has become a symbol of love, peace, and hope, and is used extensively in popular culture.",
+      artistImg: "./images/Pop/Robert_Indiana.jpg",
+      artistInfo: `His iconic image LOVE was first created in 1964 in the form of a card which he sent to several friends and acquaintances in the art world. In 1965, Robert Indiana was invited to propose an artwork to be featured on the Museum of Modern Art's annual Christmas card. Indiana submitted several 12” square oil on canvas variations based on his LOVE image. The museum selected the most intense color combination in red, blue, and green. It became one of the most popular cards the museum has ever offered. Indiana continued to develop his LOVE series, and in 1966, worked with Marian Goodman of Multiples, Inc. to make his first LOVE sculpture in aluminum. In 1970, Indiana completed his first monumental LOVE sculpture in Cor-Ten steel which is in the collection of the Indianapolis Museum of Art.`,
     },
     {
       title: "Whaam! (1963)",
       artist: "Roy Lichtenstein",
       img: "./images/whaam.jpg",
       info: "Another iconic piece by Lichtenstein, featuring a fighter jet releasing a red missile against a backdrop of bold colors and Ben-Day dots. It depicts the power and speed of modern warfare through the lens of pop culture imagery.",
+      artistImg: "./images/Pop/Roy_Lichtenstein.jpg",
+      artistInfo: `Roy Fox Lichtenstein (October 27, 1923 - September 29, 1997) was an American pop artist. During the 1960s, along with Andy Warhol, Jasper Johns, and James Rosenquist, he became a leading figure in the new art movement. His work defined the premise of pop art through parody. Inspired by the comic strip, Lichtenstein produced precise compositions that documented while they parodied, often in a tongue-in-cheek manner. His work was influenced by popular advertising and the comic book style. His artwork was considered to be "disruptive". He described pop art as "not 'American' painting but actually industrial painting". His paintings were exhibited at the Leo Castelli Gallery in New York City.`,
     },
   ],
   Surrealism: [
@@ -164,18 +186,24 @@ const subGallery = {
       artist: "Salvador Dalí",
       img: "./images/persistence.jpg",
       info: "A dreamlike masterpiece depicting melting clocks on a barren landscape. It explores themes of time, memory, and the subconscious, becoming an iconic image of surrealism.",
+      artistImg: "./images/Surrealism/Salvador_Dalí.jpg",
+      artistInfo: `Born in Figueres, Catalonia, Spain, Dalí received his formal education in fine arts in Madrid. Influenced by Impressionism and the Renaissance masters from a young age he became increasingly attracted to Cubism and avant-garde movements.He moved closer to Surrealism in the late 1920s and joined the Surrealist group in 1929, soon becoming one of its leading exponents. His best-known work, The Persistence of Memory, was completed in August 1931, and is one of the most famous Surrealist paintings. Dalí lived in France throughout the Spanish Civil War (1936 to 1939) before leaving for the United States in 1940 where he achieved commercial success. `,
     },
     {
       title: "The Son of Man (1964)",
       artist: "René Magritte",
       img: "./images/son.jpg",
       info: "A thought-provoking piece featuring a man in a bowler hat with his face obscured by an apple. It challenges perception and explores the relationship between reality and illusion, a key element in surrealism.",
+      artistImg: "./images/Surrealism/René_Magritte.jpg",
+      artistInfo: `Magritte's earliest paintings, which date from about 1915, were Impressionistic in style. During 1916-1918, he studied at the Académie Royale des Beaux-Arts in Brussels, under Constant Montald, but found the instruction uninspiring. He also took classes at the Académie Royale from the painter and poster designer Gisbert Combaz. The paintings he produced during 1918-1924 were influenced by Futurism and by the figurative Cubism of Metzinger.`,
     },
     {
       title: "The Lobster Telephone (1936)",
       artist: "Salvador Dalí",
       img: "./images/lobster.jpg",
       info: "A bizarre yet humorous creation showcasing a red lobster fused with a standard telephone receiver. It exemplifies Dalí's exploration of the subconscious and the juxtaposition of unexpected objects.",
+      artistImg: "./images/Surrealism/Salvador_Dalí.jpg",
+      artistInfo: `Born in Figueres, Catalonia, Spain, Dalí received his formal education in fine arts in Madrid. Influenced by Impressionism and the Renaissance masters from a young age he became increasingly attracted to Cubism and avant-garde movements.He moved closer to Surrealism in the late 1920s and joined the Surrealist group in 1929, soon becoming one of its leading exponents. His best-known work, The Persistence of Memory, was completed in August 1931, and is one of the most famous Surrealist paintings. Dalí lived in France throughout the Spanish Civil War (1936 to 1939) before leaving for the United States in 1940 where he achieved commercial success.`,
     },
     {
       title: "Guernica (1937)",
@@ -193,18 +221,28 @@ const subGallery = {
       artist: "Sandro Botticelli",
       img: "./images/birth.jpg",
       info: "An iconic tempera painting depicting the goddess Venus emerging from the sea. It is known for its graceful composition, delicate figures, and vibrant colors, showcasing the beauty and skill achievable with tempera.",
+      artistImg: "./images/Tempera/Sandro_Botticelli.jpg",
+      artistInfo: `Alessandro di Mariano di Vanni Filipepi (c. 1445[1 - May 17, 1510), better known as Sandro Botticelli, was an Italian painter of the Early Renaissance. Botticelli's posthumous reputation suffered until the late 19th century, when he was rediscovered by the Pre-Raphaelites who stimulated a reappraisal of his work. Since then, his paintings have been seen to represent the linear grace of late Italian Gothic and some Early Renaissance painting, even though they date from the latter half of the Italian Renaissance period.`,
     },
     {
       title: "The Arnolfini Portrait (1434)",
       artist: "Jan van Eyck",
       img: "./images/arnolfili.jpg",
       info: "A detailed and realistic portrait of Giovanni Arnolfini and his wife, believed to be the most expensive tempera painting ever sold. It demonstrates the meticulous attention to detail and lifelike quality achievable with tempera.",
+      artistImg: "./images/Tempera/Jan_van_Eyck.jpg",
+      artistInfo: `Jan van Eyck (before 1390 - 9 July 1441) was a Flemish painter active in Bruges who was one of the early innovators of what became known as Early Netherlandish painting, and one of the most significant representatives of Early Northern Renaissance art. According to Vasari and other art historians including Ernst Gombrich, he invented oil painting, though most now regard that claim as an oversimplification.`,
     },
     {
       title: "Crucifixion (1304-1306)",
       artist: "Giotto di Bondone",
       img: "./images/crucifixion.jpg",
       info: "A powerful and moving depiction of the Crucifixion by Giotto, known for its emotional intensity and innovative use of perspective. It demonstrates the ability of tempera to convey religious themes with depth and emotion.",
+      artistImg: "./images/Fresco/Giotto di Bondone..jpg",
+      artistInfo: `Giotto di Bondone known mononymously as Giotto and Latinised as Giottus, was an Italian painter and architect from Florence during
+      the Late Middle Ages. He worked during the Gothic and Proto-Renaissance period. Giotto's
+      contemporary, the banker and chronicler Giovanni Villani, wrote that Giotto was "the most sovereign
+      master of painting in his time, who drew all his figures and their postures according to nature" and of
+      his publicly recognized "talent and excellence".`,
     },
   ],
   Gouache: [
@@ -384,6 +422,9 @@ const subGallery = {
       now projecting like tiny hairs. Degas highlighted unconventional chartreuses and greens when
       depicting the figure's pink flesh, possibly influenced by the use of complementary color
       contrasts by his younger contemporaries like Seurat and Van Gogh.`,
+      artistImg: "./images/Pastel/Edgar_Degas.jpg",
+      artistInfo: `Edgar Degas (born Hilaire-Germain-Edgar De Gas, 19 July 1834 - 27 September 1917) was a French Impressionist artist famous for his pastel drawings and oil paintings.
+      Degas also produced bronze sculptures, prints, and drawings. Degas is especially identified with the subject of dance; more than half of his works depict dancers.[3] Although Degas is regarded as one of the founders of Impressionism, he rejected the term, preferring to be called a realist,[4] and did not paint outdoors as many Impressionists did.`,
     },
     {
       title: "William Merrit Chase Self Portrait",
@@ -401,6 +442,9 @@ const subGallery = {
       touch chiaroscuro, highlighting Chase's features and emphasizing the play of light and
       shadow across his face. His brushwork adds depth and dimension to the composition, giving
       the portrait with a sense of dynamism.`,
+      artistImg: "./images/Pastel/William_Merritt_Chase.jpg",
+      artistInfo: `William Merritt Chase was born on November 1, 1849, in Williamsburg (now Nineveh), Indiana, to the family of Sarah Swain and David H. Chase, a local businessman. Chase's father moved the family to Indianapolis in 1861, and employed his son as a salesman in the family business. Chase showed an early interest in art, and studied under local, self-taught artists Barton S. Hays and Jacob Cox.
+      At the age of 19, he decided to become a sailor and travelled with his friend to Annapolis where he was commissioned to a merchant ship. After a brief three-month stint in the Navy, Chase understood that it was not for him and his teachers urged him to travel to New York to further his artistic training. He arrived in New York in 1869, met and studied with Joseph Oriel Eaton for a short time, then enrolled in the National Academy of Design under Lemuel Wilmarth, a student of the famous French artist Jean-Léon Gérôme.`,
     },
     {
       title: "Sketch of The Death of Sardanapalus",
@@ -416,6 +460,9 @@ const subGallery = {
       Delacroix's vivid use of colors and expressive brushwork vividly depicts the chaotic scene,
       prompting viewers to consider the themes of power, defiance, and the fleeting nature of
       human life.`,
+      artistImg: "./images/Pastel/Eugène_Delacroix.jpg",
+      artistInfo: `Ferdinand Victor Eugène Delacroix (26 April 1798 - 13 August 1863) was a French Romantic artist regarded from the outset of his career as the leader of the French Romantic school.
+      In contrast to the Neoclassical perfectionism of his chief rival Ingres, Delacroix took for his inspiration the art of Rubens and painters of the Venetian Renaissance, with an attendant emphasis on colour and movement rather than clarity of outline and carefully modelled form. Dramatic and romantic content characterized the central themes of his maturity, and led him not to the classical models of Greek and Roman art, but to travel in North Africa, in search of the exotic. Friend and spiritual heir to Théodore Géricault, Delacroix was also inspired by Lord Byron, with whom he shared a strong identification with the "forces of the sublime", of nature in often violent action.`,
     },
     {
       title: "Poppies Isle of Shoals",
@@ -437,6 +484,8 @@ const subGallery = {
       incorporating color, light, and composition, Hassam takes observers to a tranquil rural setting
       brimming with the eternal charm of nature, encouraging them to lose themselves in its
       enchanting appeal.`,
+      artistImg: "./images/Pastel/Childe_Hassam.jpg",
+      artistInfo: `Frederick Childe Hassam (October 17, 1859 - August 27, 1935) was an American Impressionist painter, noted for his urban and coastal scenes. Along with Mary Cassatt and John Henry Twachtman, Hassam was instrumental in promulgating Impressionism to American collectors, dealers, and museums. He produced over 3,000 paintings, oils, watercolors, etchings, and lithographs over the course of his career, and was an influential American artist of the early 20th century.`,
     },
     {
       title: "Flower Clouds",
@@ -456,6 +505,9 @@ const subGallery = {
       mysteries of life and the connection between the earthly and celestial dimensions. "Flower
       Clouds" represents Redon's distinctive vision and artistic skill, providing insight into a realm
       where creativity is the ruler and beauty has no limits.`,
+      artistImg: "./images/Pastel/Odilon_Redon.jpg",
+      artistInfo: `Odilon Redon (born Bertrand Redon; 20 April 1840 - 6 July 1916) was a French Symbolist artist.
+      Early in his career, both before and after fighting in the Franco-Prussian War, Redon worked almost exclusively in charcoal and lithography, works known as his noirs. He gained recognition after his drawings were mentioned in the 1884 novel À rebours (Against Nature) by Joris-Karl Huysmans. During the 1890s, Redon began working in pastel and oil, which quickly became his favorite medium, abandoning his previous style of noirs completely after 1900. He developed a keen interest in Hindu and Buddhist religion and culture, which increasingly showed in his work.`,
     },
     {
       title: "Dandelion",
@@ -476,6 +528,8 @@ const subGallery = {
       Millet encourages viewers to appreciate the deep beauty found in the simplicity of nature,
       prompting them to take a moment to admire the complex web of life that is present all
       around us, even in the most unassuming of locations.`,
+      artistImg: "./images/Pastel/Jean-François_Millet.jpg",
+      artistInfo: `Jean-François Millet ( 4 October 1814 - 20 January 1875) was a French artist and one of the founders of the Barbizon school in rural France. Millet is noted for his paintings of peasant farmers and can be categorized as part of the Realism art movement. Toward the end of his career, he became increasingly interested in painting pure landscapes. He is known best for his oil paintings but is also noted for his pastels, Conté crayon drawings, and etchings.`,
     },
     {
       title: "Boating Couple",
@@ -494,6 +548,9 @@ const subGallery = {
       picturesque feel of the artwork. Renoir's mastery in portraying light and motion effectively
       conveys the happiness and love of the couple, encouraging viewers to partake in the joy and
       serenity of the moment.`,
+      artistImg: "./images/Pastel/Pierre_Auguste_Renoir.jpg",
+      artistInfo: `Pierre-Auguste Renoir (25 February 1841 - 3 December 1919) was a French artist who was a leading painter in the development of the Impressionist style. As a celebrator of beauty and especially feminine sensuality, it has been said that "Renoir is the final representative of a tradition which runs directly from Rubens to Watteau."
+      He was the father of actor Pierre Renoir (1885-1952), filmmaker Jean Renoir (1894-1979) and ceramic artist Claude Renoir (1901-1969). He was the grandfather of the filmmaker Claude Renoir (1913-1993), son of Pierre.`,
     },
     {
       title: "Baby in his Mother's Arms",
@@ -513,6 +570,10 @@ const subGallery = {
       texture to the piece. Her superb depiction of this intimate moment with mother and infant
       prompts viewers to consider the general themes of love, caring, and the enduring tie between
       parent and child.`,
+      artistImg: "./images/Pastel/Cassatt-Mary.jpg",
+      artistInfo: `Mary Stevenson Cassatt (May 22, 1844 - June 14, 1926) was an American painter and printmaker. She was born in Allegheny, Pennsylvania (now part of Pittsburgh's North Side), and lived much of her adult life in France, where she befriended Edgar Degas and exhibited with the Impressionists. Cassatt often created images of the social and private lives of women, with particular emphasis on the intimate bonds between mothers and children.
+
+      She was described by Gustave Geffroy as one of "les trois grandes dames" (the three great ladies) of Impressionism alongside Marie Bracquemond and Berthe Morisot. In 1879, Diego Martelli compared her to Degas, as they both sought to depict movement, light, and design in the most modern sense.`,
     },
     {
       title: "The Salon in the Rue des Moulins",
@@ -527,6 +588,8 @@ const subGallery = {
       and complex details, showing the artist's unique style of creating strong lines. Toulouse-
       Lautrec artwork remain in history and provides a peek into the secretive realm of Parisian
       nightlife in the late 1800s, illuminating the social and cultural trends of that time.`,
+      artistImg: "./images/Pastel/Henri de Toulouse-Lautrec.jpg",
+      artistInfo: `Henri Marie Raymond de Toulouse-Lautrec-Monfa (24 November 1864 - 9 September 1901), known as Toulouse Lautrec (French: [tuluz lotʁɛk]), was a French painter, printmaker, draughtsman, caricaturist, and illustrator whose immersion in the colourful and theatrical life of Paris in the late 19th century allowed him to produce a collection of enticing, elegant, and provocative images of the sometimes decadent affairs of those times.`,
     },
   ],
   Portraiture: [
@@ -621,7 +684,7 @@ const subGallery = {
       title: "The Flight into Egypt",
       artist: "Giotto di Bondone",
       img: "./images/Fresco/The Flight into Egypt.jpg",
-      info: `The flight into Egypt is a story recounted in the Gospel of Matthew (Matthew 2:13–23) and in New Testament apocrypha. Soon after the visit by the Magi, an angel appeared to Joseph in a dream telling him to flee to Egypt with Mary and the infant Jesus since King Herod would seek the child to kill him. The episode is frequently shown in art, as the final episode of the Nativity of Jesus in art, and was a common component in cycles of the Life of the Virgin as well as the Life of Christ. Within the narrative tradition, iconic representation of the "Rest on the Flight into Egypt" developed after the 14th century.`,
+      info: `The flight into Egypt is a story recounted in the Gospel of Matthew (Matthew 2:13-23) and in New Testament apocrypha. Soon after the visit by the Magi, an angel appeared to Joseph in a dream telling him to flee to Egypt with Mary and the infant Jesus since King Herod would seek the child to kill him. The episode is frequently shown in art, as the final episode of the Nativity of Jesus in art, and was a common component in cycles of the Life of the Virgin as well as the Life of Christ. Within the narrative tradition, iconic representation of the "Rest on the Flight into Egypt" developed after the 14th century.`,
       artistInfo: `Giotto di Bondone known mononymously as Giotto and Latinised as Giottus, was an Italian painter and architect from Florence during
         the Late Middle Ages. He worked during the Gothic and Proto-Renaissance period. Giotto's
         contemporary, the banker and chronicler Giovanni Villani, wrote that Giotto was "the most sovereign

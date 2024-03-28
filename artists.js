@@ -465,6 +465,13 @@ challenges.`,
     info: "Da Vinci, epitomizing the Renaissance ideal, was a master painter, sculptor, inventor, and scientist. His iconic paintings like the Mona Lisa and The Last Supper showcase his remarkable technical skill and ability to capture the human form and emotions.",
     story:
       "Leonardo da Vinci's insatiable curiosity and pursuit of knowledge in various fields made him a true Renaissance Man. His artistic and scientific contributions continue to influence and inspire generations.",
+    arts: [
+      {
+        title: "The Torment of Saint Anthony",
+        img: "/images/",
+        info: ``,
+      },
+    ],
   },
   {
     name: "Rembrandt",

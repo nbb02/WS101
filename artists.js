@@ -1014,11 +1014,31 @@ challenges.`,
     story:
       "Warhol's work serves as a commentary on our consumerist society and the rise of mass media. His art continues to spark conversations about fame, identity, and the ever-changing cultural landscape.",
     arts: [
-      { title: "", img: "./images/AndyWarhol", info: `` },
-      { title: "", img: "./images/AndyWarhol", info: `` },
-      { title: "", img: "./images/AndyWarhol", info: `` },
-      { title: "", img: "./images/AndyWarhol", info: `` },
-      { title: "", img: "./images/AndyWarhol", info: `` },
+      {
+        title: "A Cat named Sam",
+        img: "./images/AndyWarhol/A Cat named Sam.jpg",
+        info: "This 1954 children's book features 16 lithographs of Andy Warhol's cats, all named Sam (except for one blue cat!). Hand-colored with watercolors and featuring his mother's calligraphy, it's a charming look at Warhol's early artistic style and love for his feline companions.",
+      },
+      {
+        title: "Beethoven",
+        img: "./images/AndyWarhol/Beethoven.jpg",
+        info: "Part of Warhol's 1987 'Death and Disaster' series, this silkscreen print depicts the composer Ludwig van Beethoven. By using a repeated image with variations in color, Warhol explores themes of mortality and the mass media's portrayal of tragedy.",
+      },
+      {
+        title: "Campbell's Soup in Can Beef",
+        img: "./images/AndyWarhol/Campbell sound in Can Beef.jpg!Large.jpg",
+        info: "One of Warhol's most famous works, this 1962 painting belongs to his iconic Campbell's Soup Cans series. By elevating a mass-produced product to the status of high art, Warhol challenged traditional notions of artistic value and explored themes of consumerism and mass media.",
+      },
+      {
+        title: "Elvis Presley",
+        img: "./images/AndyWarhol/Elvis Presley.jpg!Large.jpg",
+        info: "This silkscreen print from 1964 features a repeated image of the music legend Elvis Presley. Using vibrant colors and blurring the image, Warhol explores the concept of fame and the mass media's role in creating and manipulating celebrity personas.",
+      },
+      {
+        title: "Friedrich the Great",
+        img: "./images/AndyWarhol/Friedrich the Great.jpg",
+        info: "Part of Warhol's 'Emperors' series created in 1982, this silkscreen print depicts Frederick II of Prussia (also known as Friedrich the Great). By using a historical figure and a bold, colorful image, Warhol creates a juxtaposition between past and present, questioning ideas of power and legacy.",
+      },
     ],
   },
   {

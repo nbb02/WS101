@@ -423,17 +423,360 @@ const subGallery = {
     {
       title: "Sunset",
       artist: "Ma'am Regina Santos",
-      img: "./images/sunset.jpg",
+      artistImg: "./images/Impressionism/Ma'am Regina Santos.jpg",
+      artistInfo: "",
+      img: "./images/Impressionism/sunset.jpg",
+      info: ``,
     },
     {
       title: "Waterfalls 2",
       artist: "Ma'am Regina Santos",
-      img: "./images/waterfalls 2.jpg",
+      artistImg: "./images/Impressionism/Ma'am Regina Santos.jpg",
+      artistInfo: "",
+      img: "./images/Impressionism/waterfalls 2.jpg",
+      info: ``,
     },
     {
       title: "Bob Ross Painting",
       artist: "Ma'am Regina Santos",
-      img: "./images/bob ross painting.jpg",
+      artistImg: "./images/Impressionism/Ma'am Regina Santos.jpg",
+      artistInfo: "",
+      img: "./images/Impressionism/bob ross painting.jpg",
+      info: ``,
+    },
+    {
+      title: "Apple Harvest",
+      artist: "Jacob Abraham Camille Pissarro",
+      artistImg: "./images/Impressionism/Pissarro.jpg",
+      artistInfo: `Jacob Abraham Camille Pissarro (10 July
+      1830 - 13 November 1903) was a Danish-French Impressionist and Neo-Impressionist
+      painter born on the island of St Thomas (now in the US Virgin Islands, but then in the
+      Danish West Indies). His importance resides in his contributions to both Impressionism
+      and Post-Impressionism. Pissarro studied from great forerunners, including Gustave
+      Courbet and Jean-Baptiste-Camille Corot. He later studied and worked alongside
+      Georges Seurat and Paul Signac when he took on the Neo-Impressionist style at the age
+      of 54.`,
+      img: "./images/Impressionism/Apple_Harvest.jpg",
+      info: `"Apple Harvest" is a painting by the French Impressionist artist Camille Pissarro.
+      Created in 1888, it is a part of Pissarro's series of works that capture scenes of rural life
+      and agricultural activities.
+      
+      In "Apple Harvest," Pissarro depicts a countryside scene where peasants are engaged
+      in the harvest of apples from orchard trees. The painting captures the laborious yet
+      rhythmic nature of the harvest, with figures depicted amidst lush greenery and bountiful
+      fruit-laden trees. Pissarro's brushwork and use of color convey a sense of movement
+      and vitality, as well as the changing light and atmosphere of the outdoors.`,
+    },
+    {
+      title: "Hay Harvest at Éragny",
+      artist: "Jacob Abraham Camille Pissarro",
+      artistImg: "./images/Impressionism/Pissarro.jpg",
+      artistInfo: `Jacob Abraham Camille Pissarro (10 July
+      1830 - 13 November 1903) was a Danish-French Impressionist and Neo-Impressionist
+      painter born on the island of St Thomas (now in the US Virgin Islands, but then in the
+      Danish West Indies). His importance resides in his contributions to both Impressionism
+      and Post-Impressionism. Pissarro studied from great forerunners, including Gustave
+      Courbet and Jean-Baptiste-Camille Corot. He later studied and worked alongside
+      Georges Seurat and Paul Signac when he took on the Neo-Impressionist style at the age
+      of 54.`,
+      img: "./images/Impressionism/Hay Harvest.jpg",
+      info: `"Hay Harvest at Éragny" is a painting by the French Impressionist artist Camille
+      Pissarro. Created in 1901, it is a part of Pissarro's series of works that depict scenes of
+      rural life in Éragny-sur-Epte, a village where the artist lived for a significant portion of his
+      later life.
+      
+      In "Hay Harvest at Éragny," Pissarro portrays a pastoral scene of the hay harvest taking
+      place in the countryside. The painting captures the laborious yet tranquil process of
+      harvesting hay, with figures depicted working in the fields amidst tall grass and
+      haystacks. Pissarro's brushwork and use of color convey the warmth and light of a
+      summer day, as well as the peacefulness of the rural landscape.`,
+    },
+    {
+      title: "The Artist's Garden at Giverny",
+      artist: "Claude Monet",
+      artistImg: "./images/Impressionism/Claude_Monet.jpg",
+      artistInfo: `Oscar-Claude Monet (14 November 1840 - 5
+      December 1926) was a French painter and founder of impressionist painting who is seen as a key
+      precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long
+      career, he was the most consistent and prolific practitioner of impressionism's philosophy of
+      expressing one's perceptions of nature, especially as applied to plein air (outdoor) landscape
+      painting. The term "Impressionism" is derived from the title of his painting Impression, soleil levant,
+      exhibited in 1874 (the "exhibition of rejects") initiated by Monet and his associates as an alternative
+      to the Salon.`,
+      img: "./images/Impressionism/Garten_in_Giverny.jpg",
+      info: `The Artist's Garden at Giverny is an oil on
+      canvas painting by Claude Monet done in 1900, now in the Musée d'Orsay, Paris.
+      It is one of many works by the artist of his garden at Giverny over the last thirty years of his life. The
+      painting shows rows of irises in various shades of purple and pink set diagonally across the picture
+      plane. The flowers are under trees that in allowing dappled light through change the tone of their
+      colours. Beyond the trees is a glimpse of Monet's house.`,
+    },
+    {
+      title: "Bridge over a Pond of Water Lilies",
+      artist: "Claude Monet",
+      artistImg: "./images/Impressionism/Claude_Monet.jpg",
+      artistInfo: `Oscar-Claude Monet (14 November 1840 - 5
+      December 1926) was a French painter and founder of impressionist painting who is seen as a key
+      precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long
+      career, he was the most consistent and prolific practitioner of impressionism's philosophy of
+      expressing one's perceptions of nature, especially as applied to plein air (outdoor) landscape
+      painting. The term "Impressionism" is derived from the title of his painting Impression, soleil levant,
+      exhibited in 1874 (the "exhibition of rejects") initiated by Monet and his associates as an alternative
+      to the Salon.`,
+      img: "./images/Impressionism/Bridge_Over_a_Pond_of_Water_Lilies.jpg",
+      info: `Claude Monet's “Bridge over a Pond of Water Lilies”
+      painting is an iconic work of Impressionist art. The painting was created in 1899 and
+      measures 3' 0'' x 2' 5''. It is an oil painting on canvas that is part of Monet's famous
+      series, Water Lilies. This particular piece features the bridge spanning the Giverny water
+      lily pond full of lush foliage. In the background one can see the silhouette of trees reflecting
+      in the calm water which creates a tranquil atmosphere. The use of bright colors such as
+      yellow, orange and green captures the beauty and vitality of this natural setting while also
+      conveying the idea of harmony between man-made structures and nature. As viewers take
+      in all the details, they are drawn into this peaceful scene which encourages contemplation
+      and relaxation.
+      The painting has become one of Monet's most well known works, as it represents his love
+      for nature and his pioneering style known as impressionism. He was influenced by
+      Japanese art which can be seen in the composition of the elements around the bridge. The
+      trees are carefully placed in different positions to create depth and movement within the
+      painting, while their vibrant green coloring gives them life. Atop the bridge stands a figure
+      that is believed to be Leona Davidson, Monet’s muse at this time.`,
+    },
+    {
+      title: "A Cotton Office in New Orleans",
+      artist: "Edgar Degas",
+      artistImg: "./images/Impressionism/Edgar_Degas.jpg",
+      artistInfo: `Edgar Degas (born Hilaire-
+      Germain-Edgar De Gas, 19 July 1834 - 27
+            September 1917) was a French Impressionist artist famous for his pastel drawings
+      and oil paintings.
+            Degas also produced bronze sculptures, prints, and drawings. Degas is especially
+      identified with the subject of dance; more than half of his works depict dancers
+      Although Degas is regarded as one of the founders of Impressionism, he rejected
+      the term, preferring to be called a realist,and did not paint outdoors as many
+      Impressionists did.
+            Degas was a superb draftsman, and particularly masterly in depicting movement,
+      as can be seen in his rendition of dancers and bathing female nudes. In addition to
+      ballet dancers and bathing women, Degas painted racehorses and racing jockeys,
+      as well as portraits. His portraits are notable for their psychological complexity
+      and their portrayal of human isolation.`,
+      img: "./images/Impressionism/Cotton.jpg",
+      info: `A Cotton Office in New Orleans, also known as Interior of an Office of
+      Cotton Buyers in New Orleans and Portraits in an Office (New Orleans), is
+      an oil painting by Edgar Degas. Degas depicts the interior of his maternal
+      uncle Michel Musson's cotton firm in New Orleans. Musson, Degas's
+      brothers René and Achille, Musson's son-in-law William Bell, and other
+      associates of Musson are shown engaged in various business and leisure
+      activities while raw cotton rests on a table in the middle of the office.
+      
+      Degas created the painting in the early part of 1873 during an extended
+      visit with family in New Orleans. His trip coincided with the political
+      turbulence of Reconstruction. Degas exhibited the work at the 1876
+      Impressionist Exhibition in Paris. Degas hoped to sell the painting to a
+      textile manufacturer in Manchester but was unsuccessful. A Cotton
+      Office in New Orleans was eventually sold in 1878 to the Municipal
+      Museum in Pau, France. Degas was the only major French Impressionist
+      to travel to the United States and paint US subjects.`,
+    },
+    {
+      title: "In a Café",
+      artist: "Edgar Degas",
+      artistImg: "./images/Impressionism/Edgar_Degas.jpg",
+      artistInfo: `Edgar Degas (born Hilaire-
+      Germain-Edgar De Gas, 19 July 1834 - 27
+            September 1917) was a French Impressionist artist famous for his pastel drawings
+      and oil paintings.
+            Degas also produced bronze sculptures, prints, and drawings. Degas is especially
+      identified with the subject of dance; more than half of his works depict dancers
+      Although Degas is regarded as one of the founders of Impressionism, he rejected
+      the term, preferring to be called a realist,and did not paint outdoors as many
+      Impressionists did.
+            Degas was a superb draftsman, and particularly masterly in depicting movement,
+      as can be seen in his rendition of dancers and bathing female nudes. In addition to
+      ballet dancers and bathing women, Degas painted racehorses and racing jockeys,
+      as well as portraits. His portraits are notable for their psychological complexity
+      and their portrayal of human isolation.`,
+      img: "./images/Impressionism/In_a_Café.jpg",
+      info: `Painted in 1875-76, the work portrays a woman and man
+      sitting side-by-side, drinking a glass of absinthe. They
+      appear lethargic and lonely. The man, wearing a hat,
+      looks to the right off the edge of the canvas, while the
+      woman, dressed more formally in fashionable dress and
+      hat, stares vacantly downward. A glass filled with
+      absinthe is on the table in front of her. The models used
+      in the painting are Ellen Andrée, an actress who also
+      appeared in Édouard Manet's paintings Chez le père
+      Lathuille and Plum Brandy, and Marcellin Desboutin,a
+      painter and etcher.The café where they are taking their
+      refreshment is the Café de la Nouvelle-Athènes in Paris.`,
+    },
+  ],
+  Conceptual: [
+    {
+      title: "Granite Bench",
+      artist: "Jenny Holzer",
+      img: "./images/Conceptual/granite-bench.jpg",
+      artistImg: "./images/Conceptual/Jenny_holzer.jpg",
+      artistInfo: `Jenny Holzer (born July 29, 1950) is an American neo-conceptual artist, based in Hoosick, New York. The
+      main focus of her work is the delivery of words and ideas in public spaces and includes large-scale
+      installations, advertising billboards, projections on buildings and other structures, and illuminated
+      electronic displays.
+      Holzer belongs to the feminist branch of a generation of artists that emerged around 1980, and was an
+      active member of Colab during this time, participating in the famous The Times Square Show.
+            Jenny Holzer is an American Conceptual artist best known for her text-based public art projects. Exploring
+      how language is used both as a form of communication and as a means of concealment and control, Holzer
+            has employed a variety of media throughout her career, including large-scale projections, LED displays, T-
+      shirts, and posters.`,
+      info: `Jenny Holzer's "Granite Bench" is a sculptural installation that incorporates text into the surface of a
+      granite bench. The bench is typically made of high-quality granite and features inscriptions of Holzer's
+      signature text-based artworks, such as excerpts from her "Truisms" or "Inflammatory Essays" series.
+      
+      The text on the granite bench is often carved deeply into the surface, creating a tactile and visually
+      striking effect. Holzer's choice of materials, particularly the use of granite, adds a sense of permanence
+      and weight to the artwork, anchoring the ephemeral nature of language into a durable form.`,
+    },
+    {
+      title: "MONUMENT",
+      artist: "Jenny Holzer",
+      img: "./images/Conceptual/monument.png",
+      artistImg: "./images/Conceptual/Jenny_holzer.jpg",
+      artistInfo: `Jenny Holzer (born July 29, 1950) is an American neo-conceptual artist, based in Hoosick, New York. The
+      main focus of her work is the delivery of words and ideas in public spaces and includes large-scale
+      installations, advertising billboards, projections on buildings and other structures, and illuminated
+      electronic displays.
+      Holzer belongs to the feminist branch of a generation of artists that emerged around 1980, and was an
+      active member of Colab during this time, participating in the famous The Times Square Show.
+            Jenny Holzer is an American Conceptual artist best known for her text-based public art projects. Exploring
+      how language is used both as a form of communication and as a means of concealment and control, Holzer
+            has employed a variety of media throughout her career, including large-scale projections, LED displays, T-
+      shirts, and posters.`,
+      info: `"MONUMENT" is a significant art installation created by Jenny Holzer in 2008. The installation is often
+      described as a powerful and thought-provoking piece that engages with themes of war, violence, and
+      human suffering.
+      
+      "MONUMENT" typically consists of large-scale projections of declassified U.S. government documents,
+      including military logs, intelligence reports, and other official records related to the Iraq and Afghanistan
+      wars. These documents are projected onto the facades of prominent buildings, monuments, or other
+      architectural structures, effectively transforming them into temporary memorials or sites of
+      remembrance.`,
+    },
+    {
+      title: "The Fallen Easel",
+      artist: "John Anthony Baldessari",
+      img: "./images/Conceptual/fallen easel.jpg",
+      artistImg: "./images/Conceptual/John_Baldessari.jpg",
+      artistInfo: `John Anthony Baldessari (June 17, 1931 - January 2, 2020) was an American conceptual artist known for
+      his work featuring found photography and appropriated images. He lived and worked in Santa Monica
+      and Venice, California.
+      
+      Initially a painter, Baldessari began to incorporate texts and photography into his canvases in the mid-
+      1960s. In 1970 he began working in printmaking, film, video, installation, sculpture and photography. He
+      
+      created thousands of works which demonstrate and, in many cases, combine the narrative potential of
+      images and the associative power of language within the boundaries of the work of art. His art has been
+      featured in more than 200 solo exhibitions in the U.S. and Europe.His work influenced that of Cindy
+      Sherman, David Salle, Annette Lemieux, and Barbara Kruger among others.`,
+      info: `An influential pioneer of Conceptual Art, John Baldessari began appropriating film stills, advertisements,
+      and found photographs in the 1980s to examine the social impact of mass culture. Using photographic
+      excerpts in unorthodox arrangements, he highlights dissonance and gaps in meaning to undermine
+      expectations for how images function. The Fallen Easel employs a framed, multipart composition to
+      suggest its own physical instability and thereby underscore the “fall” of easel painting from the apex of
+      fine art to a grammar of simple color combinations. The colored dots, placed to obscure identities or
+      expressions, additionally frustrate conventional markers of meaning in photographs.`,
+    },
+    {
+      title: "Throwing Three Balls in the Air to Get a Straight Line",
+      artist: "John Anthony Baldessari",
+      img: "./images/Conceptual/Throwing.jpg",
+      artistImg: "./images/Conceptual/John_Baldessari.jpg",
+      artistInfo: `John Anthony Baldessari (June 17, 1931 - January 2, 2020) was an American conceptual artist known for
+      his work featuring found photography and appropriated images. He lived and worked in Santa Monica
+      and Venice, California.
+      
+      Initially a painter, Baldessari began to incorporate texts and photography into his canvases in the mid-
+      1960s. In 1970 he began working in printmaking, film, video, installation, sculpture and photography. He
+      
+      created thousands of works which demonstrate and, in many cases, combine the narrative potential of
+      images and the associative power of language within the boundaries of the work of art. His art has been
+      featured in more than 200 solo exhibitions in the U.S. and Europe.His work influenced that of Cindy
+      Sherman, David Salle, Annette Lemieux, and Barbara Kruger among others.`,
+      info: `"Throwing Three Balls in the Air to Get a Straight Line" is a conceptual artwork created by the renowned
+      American artist John Baldessari. This piece, created in 1973, is emblematic of Baldessari's interest in
+      challenging traditional notions of art and perception.
+            In this work, Baldessari explores the idea of randomness and control within artistic creation. The title
+      describes a seemingly impossible task—throwing three balls in the air and expecting them to form a
+      straight line. It suggests a playful and absurd approach to the creative process, highlighting the tension
+      between intention and chance.`,
+    },
+    {
+      title: "One and Three Hammers",
+      artist: "Joseph Kosuth",
+      img: "./images/Conceptual/hammers.jpg",
+      artistImg: "./images/Conceptual/Joseph Kosuth.jpeg",
+      artistInfo: `Joseph Kosuth is indeed an American conceptual artist known for his pioneering contributions to
+      conceptual art in the 1960s and beyond. Born in 1945 in Toledo, Ohio, Kosuth emerged as a central
+      figure in the conceptual art movement, which sought to prioritize ideas and concepts over traditional
+      aesthetic concerns.
+      One of Kosuth's most famous works is his series of installations titled "One and Three Chairs" (1965). In
+      this series, Kosuth presents a physical chair alongside a photograph of the same chair and a dictionary
+      definition of the word "chair." Through this juxtaposition, Kosuth explores the relationship between
+      language, representation, and reality, questioning the nature of art and the role of the artist.`,
+      info: `"One and Three Hammers" is another conceptual artwork created by Joseph Kosuth in 1965, expanding
+      upon the themes explored in his "One and Three" series. Like "One and Three Shovels," this piece
+      presents three representations of a single object: a physical hammer, a photograph of the same hammer,
+      and a dictionary definition of the word "hammer."
+      
+      Similar to his other works in the series, "One and Three Hammers" challenges traditional notions of art
+      by emphasizing the importance of ideas and language over physical objects. By presenting the hammer
+      in different forms – physical, pictorial, and textual – Kosuth prompts viewers to contemplate the nature
+      of representation, the role of language in defining objects, and the concept of art itself.`,
+    },
+    {
+      title:
+        "Chairs, Neon Lights, and Philosophy: The Conceptual Art of Joseph Kosuth",
+      artist: "Joseph Kosuth",
+      img: "./images/Conceptual/Chairs.jpg",
+      artistImg: "./images/Conceptual/Joseph Kosuth.jpeg",
+      artistInfo: `Joseph Kosuth is indeed an American conceptual artist known for his pioneering contributions to
+      conceptual art in the 1960s and beyond. Born in 1945 in Toledo, Ohio, Kosuth emerged as a central
+      figure in the conceptual art movement, which sought to prioritize ideas and concepts over traditional
+      aesthetic concerns.
+      One of Kosuth's most famous works is his series of installations titled "One and Three Chairs" (1965). In
+      this series, Kosuth presents a physical chair alongside a photograph of the same chair and a dictionary
+      definition of the word "chair." Through this juxtaposition, Kosuth explores the relationship between
+      language, representation, and reality, questioning the nature of art and the role of the artist.`,
+      info: `"Chairs, Neon Lights, and Philosophy: The Conceptual Art of Joseph Kosuth" is a title that aptly
+      encapsulates the essence of Joseph Kosuth's artistic practice. Kosuth, an American conceptual artist born
+      in 1945, is renowned for his groundbreaking contributions to the field of conceptual art during the 1960s
+      and beyond.
+      
+      The inclusion of "Chairs" in the title likely refers to one of Kosuth's seminal works, "One and Three
+      Chairs" (1965). This installation features an actual chair, a photograph of the same chair, and a printed
+      definition of the word "chair." Through this piece, Kosuth explores the complex relationship between
+      objects, language, and representation, prompting viewers to consider the nature of perception and
+      meaning.`,
+    },
+    {
+      title: "Existential Time",
+      artist: "Joseph Kosuth",
+      img: "./images/Conceptual/Existensial time.jpg",
+      artistImg: "./images/Conceptual/Joseph Kosuth.jpeg",
+      artistInfo: `Joseph Kosuth is indeed an American conceptual artist known for his pioneering contributions to
+      conceptual art in the 1960s and beyond. Born in 1945 in Toledo, Ohio, Kosuth emerged as a central
+      figure in the conceptual art movement, which sought to prioritize ideas and concepts over traditional
+      aesthetic concerns.
+      One of Kosuth's most famous works is his series of installations titled "One and Three Chairs" (1965). In
+      this series, Kosuth presents a physical chair alongside a photograph of the same chair and a dictionary
+      definition of the word "chair." Through this juxtaposition, Kosuth explores the relationship between
+      language, representation, and reality, questioning the nature of art and the role of the artist.`,
+      info: `"Existential Time" is a concept explored by Joseph Kosuth, a leading figure in the conceptual art
+      movement. Kosuth's engagement with existential themes in his art is evident in various works
+      throughout his career.
+      
+      In the context of Kosuth's oeuvre, "Existential Time" likely refers to the philosophical exploration of time
+      within the framework of existentialism. Existentialism is a philosophical movement that emphasizes
+      individual existence, freedom, and choice. Time, within this philosophical perspective, is often viewed as
+      a fundamental aspect of human existence, shaping our experiences, decisions, and perceptions of
+      reality.`,
     },
   ],
   Pastel: [
@@ -620,7 +963,7 @@ const subGallery = {
       artistInfo: `Henri Marie Raymond de Toulouse-Lautrec-Monfa (24 November 1864 - 9 September 1901), known as Toulouse Lautrec (French: [tuluz lotʁɛk]), was a French painter, printmaker, draughtsman, caricaturist, and illustrator whose immersion in the colourful and theatrical life of Paris in the late 19th century allowed him to produce a collection of enticing, elegant, and provocative images of the sometimes decadent affairs of those times.`,
     },
   ],
-  Portraiture: [
+  Fresco: [
     {
       title: "The Vision of the Cross",
       artist: "Gianfrancesco Penni",

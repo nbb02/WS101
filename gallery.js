@@ -1064,6 +1064,415 @@ const subGallery = {
       artistImg: "./images/Fresco/Giotto di Bondone..jpg",
     },
   ],
+  Miniature: [
+    {
+      title: "Tatsuya Tanaka Miniature",
+      artist: "Tatsuya Tanaka",
+      img: "./images/Miniature/Tatsuya Tanaka Miniature.jpg",
+      artistImg: "./images/Miniature/Tanaka.jpg",
+      artistInfo: `Born in Kumamoto, Kyusyu in 1981, Tanaka Tatsuya is a Japanese photographer.
+      He started posting miniature images every day in 2011, calling it "Miniature
+      Calendar." Since then, more than 4,000 images have been posted on his website,
+      and he now has 2.5 million+ followers on Instagram.
+      Born: 1981 (age 43 years), Kumamoto, Kumamoto, Japan`,
+      info: `In 2011, Japanese Art director and photographer Tatsuya Tanaka realized his
+      penchant for miniature art and started creating his awe-inspiring miniature
+      dioramas. Four years later, the artist still adds to his diorama collection on a daily
+      basis, and his creations are getting ever stranger and more creative; a mango slice
+      suddenly becomes a small island bedecked with a palm tree, a circuit board is
+      converted into a golf field with actual players, and a rolled up magazine is
+      miraculously transformed into a wave for a surfer! The photographer's knack lies in
+      imagining everyday objects in ingenious ways and his fantastical childlike
+      imagination leaves us enthralled.`,
+    },
+    {
+      title: "Devastated by calamities and catastrophes",
+      artist: "Thomas Doyle",
+      img: "./images/Miniature/Thomas-Doyle.jpg",
+      artistImg: "./images/Miniature/tom.jpg",
+      artistInfo: `Tom Doyle is a highly acclaimed music journalist and author of three books:
+      The Glamour Chase: The Maverick Life of Billy MacKenzie, Man on the Run:
+      Paul McCartney in the 1970s, and Captain Fantastic: Elton John's Stellar Trip
+      Through The '70s. ...
+      Born: May 1, 1967
+      Died: October 8, 2016 (age 49 years)
+      Partner: Jane Ellen Miller`,
+      info: `American sculptor Thomas Doyle has been famously crafting splendid
+      isolated spaces and microcosmic idyllic scenes which have been devastated
+      by calamities and catastrophes. His 1:43 scale series feature tiny human
+      figures, immaculate green landscapes, over-the-edge and buried houses, and
+      demolished estates. Doyle's unsettling works are sometimes sealed under
+      glass, and exude a prurient feel as the large-as-God observers look down
+      upon frightening and strange moments in the lives of people as a shady
+      intruder loiters outside their windows or their homes are destroyed and
+      shattered down to the ground. These moments in time are blurry and
+      distorted, wrapped in a dreamlike atmosphere!`,
+    },
+    {
+      title: "Needle Housing Snow White And The Seven Dwarfs.",
+      artist: "Willard Wigan",
+      img: "./images/Miniature/Willard-Wigan-1.jpg",
+      artistImg: "./images/Miniature/willard.jpg",
+      artistInfo: `Willard Wigan, MBE is a British sculptor from Ashmore Park Estate,
+      Wednesfield, England, the son of Jamaican immigrants, who makes micro
+      miniature sculptures. His sculptures are typically placed in the eye of a needle
+      or on the head of a pin. A single sculpture can be as small as 0.005 mm.
+      Born: June 1957 (age 66 years), Wednesfield, Wolverhampton, United
+      Kingdom
+      Known for: Sculpture
+      Award: Order of the British Empire`,
+      info: `Dyslexic Artist Willard Wigan gives a whole new meaning to thinking outside
+      the box with his micro sculptures, tiny to the extreme that most of his creations
+      could easily fit inside a miniature box! He has incredulously recreated scenes
+      from pop-culture and Bible. His art sometimes occupy the head of a pin, like
+      the sculpture of Homer hoisting Bart Simpson into the air, or the eye of a
+      needle housing snow white and the seven dwarfs. Those creations are so
+      miniature that they can only be viewed under a high-powered microscope. His
+      unique perspective and ingenuity have earned him money, fame,
+      appreciation, and respect from people around the world.`,
+    },
+    {
+      title: "Life-like Foods Out Of Air Dry Clay",
+      artist: "Lim Pui Wan",
+      img: "./images/Miniature/Lim-Pui-Wan.jpg",
+      artistImg: "./images/Miniature/lim.jpg",
+      artistInfo: `Lim Pui Wan is a Malaysian miniature artist who discovered her love of
+      miniatures at the age of 14 and has, since 2014 under “Picoworm”,
+      become a full-time professional miniature artist. In 2020, she was even
+      part of Ryan Reynold's “Ryan Doesn't Know” Snapchat series!`,
+      info: `Going by the name PicoWorm, the Malaysian clay art hobbyist is making
+      people crazy over her miniature designs which she regularly posts on
+      
+      her myriad social media platforms. Her artist name is inspired from pico-
+      a terrifically small unit in metric system-, and worm taken from a
+      
+      “bookworm”. She crafts her life-like foods out of air dry clay and paints
+      over them with acrylic. She displays her amazing creations in her
+      realistic doll-sized provision shop, reminiscent of the retro looking
+      mom-and-pop outlets sprawling all over Singapore and Malaysia,
+      complete with Coca-Cola posters and a calendar at the back.`,
+    },
+    {
+      title: "Sets for a Film I'll Never Make",
+      artist: "Daniel Agdag",
+      img: "./images/Miniature/Daniel-Agdag.jpg",
+      artistImg: "./images/Miniature/daniel.jpg",
+      artistInfo: `Daniel Agdag's works are mechanical manifestation of his thoughts, feelings
+      and ideas told through hidden narratives within the details of his work. They
+      appear as systems; structural, social or mechanical. Often described as
+      'architectural in form, whimsical in nature and inconceivably intricate'.
+      Drawn to the utilitarian origins and monochromatic presentation of his
+      primary material cardboard, Agdag creates a paradox of fragility and
+      strength with structures that resemble architectural forms and machines by
+      using a medium that is essentially paper.`,
+      info: `Daniel Agdag has beautifully designed a series of astoundingly detailed
+      sculptures using just PVA glue and sliced cardboard, and named his collection
+      
+      'Sets for a Film I'll Never Make'. The Melbourne-based award-winning film-
+      maker and artist flaunts his breathtaking talent and eye for detail with these
+      
+      accurate collections of miniature models of potential film sets. Featuring
+      buildings and industrial machinery, the pieces in his miniature models are
+      created in the art deco style that when photographed, makes the models look
+      like they have just stepped out of a vintage film-noir.`,
+    },
+    {
+      title: "Micro Matter",
+      artist: "Rosa De Jong",
+      img: "./images/Miniature/Rosa-de-Jong.jpg",
+      artistImg: "./images/Miniature/rosa.jpg",
+      artistInfo: `The beauty of Amsterdam-based artist and designer Rosa de Jong's work lies
+      not only in her infinite creativity but also in her intricate, creative, and perfect
+      execution. Art and design come in a variety of shapes and forms, some big,
+      some small, and some confined in a miniature glass container.`,
+      info: `Nothing leaves the eye riveted to the spot more than artistic creations that are
+      so much shockingly smaller than life. Artist Rosa de Jong has ingeniously
+      leveraged her numerous talents to create Micro Matter: a series of miniature
+      models featuring stunning architecture set against a backdrop of lush
+      greenery. Her sculptures are so tiny that one can fit them into test tubes
+      snuggly, as they continue to capture the gaze with their vertical, clean lines.
+      Each creation portrays a different incarnation of how industry meets nature,
+      and depicts a snapshot of Mother Earth and manmade architecture and
+      construction that lies upon its surface.`,
+    },
+    {
+      title: "Realities of Urban Settings",
+      artist: "Joshua Smith",
+      img: "./images/Miniature/Joshua-Smith-1.jpg",
+      artistImg: "./images/Miniature/joshua.jpg",
+      artistInfo: `Joshua Smith was an Australian artist who won the Archibald Prize in 1944
+      with his portrait of Hon Sol Rosevear, MP, Speaker of the Australian House
+      of Representatives, but is better known as the subject of the previous year's
+      controversial Archibald Prize win, Mr Joshua Smith by artist William Dobell.
+      Wikipedia
+      Born: March 12, 1905
+      Died: July 22, 1995 (age 90 years), Sydney, Australia
+      Artworks: Dame Mary Gilmore, Still life, Portrait group`,
+      info: `Artist Joshua Smith works at 1:20 scale to create painstaking works that
+      beautifully embody the layered realities of urban settings in myriad cities such
+      as Los Angeles, Sydney, and Hong Kong. His miniature buildings perfectly
+      depict the detritus and details left by the diverse population of those cities,
+      introducing elements of the city's street artists, inhabitants, and workers,
+      which are visible through details such as the heavily graffitied exteriors, road
+      sign posts, and takeout food sitting on the roof of the building.`,
+    },
+    {
+      title: "Britannica",
+      artist: "Michael Chesko",
+      img: "./images/Miniature/Michael-Chesko.jpg",
+      artistImg: "./images/Miniature/michael.jpg",
+      artistInfo: `Michael Chesko is an accomplished artist, scholar, and advocate whose
+      vibrant canvases convey deep emotions and stories. With a keen intellect, he
+      explores philosophy and psychology, challenging conventions through
+      insightful writings. Committed to social justice, he volunteers and mentors,
+      fostering inclusivity. Chesko's multidimensional pursuits illuminate the human
+      experience with creativity, intellect, and compassion.`,
+      info: `While working in the early 1980s as an Engineer for Motorola, Michael Chesko
+      developed an affinity for miniatures, which ultimately led to the creation of an
+      extensive imaginary city named Britannica! Using just fingernail files, Xacto
+      blades, and Balsa wood as his tools and mediums, ten years of pure creativity
+      made him realize that instead of daydreaming or lusting after fantasy, he could
+      in fact demand the exactitude of reality? His most ambitious work to date,
+      Midtown Manhattan, is a testament of what sheer creativity mingled with
+      ingenuity can achieve.`,
+    },
+  ],
+  Portraiture: [
+    {
+      title: "Portrait Of Lady Agnew Of Lochnaw",
+      img: "./images/Portraiture/Portrait Of Lady Agnew Of Lochnaw.jpg",
+      artist: "John Singer Sargent",
+      artistImg: "./images/Portraiture/John Singer Sargent.jpg",
+      artistInfo: `John Singer Sargent was an American expatriate artist, considered the "leading
+      portrait painter of his generation" for his evocations of Edwardian-era luxury. He
+      created roughly 900 oil paintings and more than 2,000 watercolors, as well as
+      countless sketches and charcoal drawings.
+      Born: January 12, 1856, Florence, Italy
+      Died: April 1925 (age 69 years), London, United Kingdom
+      Periods: Impressionism, American Renaissance
+      Known for: Painting
+      Influenced by: Diego Velázquez, James McNeill Whistler, Jean Auguste Dominique
+      Ingres, Léon Bonnat
+      Parents: FitzWilliam Sargent, Mary Sargent`,
+      info: `Lady Agnew (born Gertrude Vernon) is the subject of this painting, which was
+      ordered by her husband, the Scottish barrister Sir Andrew Noel Agnew. The
+      lady establishes a strong rapport with the observer through her direct stare
+      and informal stance. Her exquisite white gown with lilac accent blends well
+      with the vibrant, patterned upholstery of the Chinese silk wall hanging from
+      the eighteenth century and the French chairs. Sargent's smooth brushstrokes
+      exude an air of luxury and comfort. The artist said he sometimes got his best
+      results only after a few sittings. He finished the Portrait Of Lady Agnew Of
+      Lochnaw in six sessions. The work's exhibition at the Royal Academy in
+      London in 1893 helped establish Lady Agnew as a society hostess and the
+      Sargent's portrait painter status.`,
+    },
+    {
+      title: "The Desperate Man (Self-Portrait)",
+      img: "./images/Portraiture/The Desperate Man.jpg",
+      artist: "Gustave Courbet",
+      artistImg: "./images/Portraiture/Jean Désiré Gustave Courbet.jpg",
+      artistInfo: `Jean Désiré Gustave Courbet was a French painter who led the Realism
+      movement in 19th-century French painting. Committed to painting only what
+      he could see, he rejected academic convention and the Romanticism of the
+      previous generation of visual artists.
+      Born: June 10, 1819, Ornans, France
+      Died: December 31, 1877 (age 58 years), La Tour-de-Peilz, Switzerland
+      Period: Realism
+      Known for: Painting, sculpting
+      Influenced by: Rembrandt, Caravaggio, Peter Paul Rubens, Hokusai,
+      Francisco de Zurbarán, Diego Velázquez
+      Parents: Régis Courbet, Sylvie Oudot`,
+      info: `Self-portraits are prevalent throughout Courbet's career, and many of these
+      self-portraits, including the one above, are Romantic in style, demonstrating
+      clean lines and precision. In The Desperate Man, Courbet pulls his hair while
+      staring at the observer directly with his eyes wide open, conveying the
+      subject's emotional and psychological state. Courbet utilized his self-portraits
+      to prove himself as an artist and as a means of self-promotion and publicity.
+      He believed that artists should depict the world as they perceive it; thus, his
+      
+      realistic artwork in the late 1840s favored many young realist and neo-
+      romantic painters. In addition to feeling his desperation when one looks at this
+      
+      self-portrait, the observer also gets a sense of Gustave Courbet's personality.
+      Brave, cunning, radical, aspirational, and determined. Determined to influence
+      the direction of art history by protesting against cliches and challenging
+      established painting forms.`,
+    },
+    {
+      title: "Portrait Of Madame X",
+      img: "./images/Portraiture/Portrait Of Madame X.jpg",
+      artist: "John Singer Sargent",
+      artistImg: "./images/Portraiture/John Singer Sargent.jpg",
+      artistInfo: `John Singer Sargent was an American expatriate artist, considered the
+      "leading portrait painter of his generation" for his evocations of Edwardian-era
+      luxury. He created roughly 900 oil paintings and more than 2,000 watercolors,
+      as well as countless sketches and charcoal drawings.
+      Born: January 12, 1856, Florence, Italy
+      Died: April 1925 (age 69 years), London, United Kingdom
+      Periods: Impressionism, American Renaissance
+      Known for: Painting
+      Influenced by: Diego Velázquez, James McNeill Whistler, Jean Auguste
+      Dominique Ingres, Léon Bonnat
+      Parents: FitzWilliam Sargent, Mary Sargent`,
+      info: `John Singer Sargent was the most famous portrait painter of his time, also
+      hailed as the "leading portrait painter of his generation." In 1874 he went to
+      Paris to study painting. Ten years later, in 1884, at the Paris Salon, Sargent
+      debuted arguably one of his best-known paintings, Portrait Of Madame X,
+      which portrays a Parisian beauty named Madame Gautreau. Sargent thought
+      it was his best work and was unpleasantly startled when it sparked a stir
+      because reviewers thought it was eccentric and provocative. After failing in
+      Paris, Sargent relocated permanently to London. His art didn't instantly appeal
+      to the English taste. However, it all changed in 1887. That year, his painting
+      of two little girls lighting Japanese lanterns won the British public's hearts. He
+      started to receive extraordinary acclaim in England and the United States.
+      Clients flocked to his studio in Chelsea, where he charged around $5,000 for
+      a full-length portrait.`,
+    },
+    {
+      title: "Girl With A Pearl Earring",
+      img: "./images/Portraiture/Girl With A Pearl Earring.jpg",
+      artist: "Johannes Vermeer",
+      artistImg: "./images/Portraiture/Johannes Vermeer.jpg",
+      artistInfo: `Johannes Vermeer was a Dutch Baroque Period painter who specialized
+      in domestic interior scenes of middle-class life. He is considered one of
+      the greatest painters of the Dutch Golden Age. During his lifetime, he
+      was a moderately successful provincial genre painter, recognized in
+      Delft and The Hague.
+      Born: October 31, 1632, Delft, Netherlands
+      Died: December 15, 1675 (age 43 years), Delft, Netherlands
+      Periods: Baroque, Baroque painting, Dutch Golden Age
+      Influenced by: Carel Fabritius, Gabriël Metsu, Cesare Ripa, Dirck van
+      Baburen, Leonaert Bramer
+      Children: Cornelia Vermeer, Catharina Vermeer, MORE
+      Parents: Reynier Janszoon Vermeer, Digna Baltens`,
+      info: `The Girl With A Pearl Earring, one of Vermeer's most famous paintings, was
+      created in 1665, ten years before his terrible demise. The work has gone by
+      several names throughout the ages, and only in the 20th century did it
+      receive its current title. A young woman is depicted in the painting in a small,
+      dark environment that focuses the viewer's attention solely on her. She is
+      decked out in a gold jacket with a visible white collar underneath, the titular
+      pearl earring, and a blue and gold headpiece. Unlike many of Vermeer's
+      subjects, she is not focused on a routine task and unaware of the viewer.
+      Instead, she turns her head over her shoulder and meets the viewer's gaze,
+      her lips parted as if she was about to speak.`,
+    },
+    {
+      title: "Portrait Of Adele Bloch Bauer I",
+      img: "./images/Portraiture/Portrait Of Adele Bloch Bauer.jpg",
+      artist: "Gustav Klimt",
+      artistImg: "./images/Portraiture/Gustav Klimt.jpg",
+      artistInfo: `Gustav Klimt was an Austrian symbolist painter and one of the most prominent
+      members of the Vienna Secession movement. Klimt is noted for his paintings,
+      murals, sketches, and other objets d'art. Klimt's primary subject was the
+      female body, and his works are marked by a frank eroticism.
+      Born: July 14, 1862, Baumgarten, Vienna, Austria
+      Died: February 6, 1918 (age 55 years), Vienna, Austria
+      Periods: Art Nouveau, Vienna Secession, Symbolism, Modern art
+      Children: Gustav Ucicky, Gustav Zimmermann, Otto Zimmermann
+      Influenced by: Pierre-Auguste Renoir, Hans Makart, Albrecht Dürer
+      Grandchild: Gustav Zimmermann`,
+      info: `There is little doubt that Klimt was influenced by Egyptian art when he created
+      this portrait of Adele Bloch Bauer I, the wife of sugar industrialist Ferdinand
+      Bloch-Bauer. Bauer twice commissioned Klimt to create portraits of his wife.
+      In this particular painting, Adele is depicted by Klimt in an ambiguous position.
+      It's unclear whether she's standing or sitting in an armchair draped in sinuous
+      spirals. Her face is encircled by a golden halo with elaborate decorations. The
+      sensuality of the woman depicted in the portrait is conveyed by her heated
+      cheeks and rouged lips. Adele Bloch-Bauer is also decked out in expensive
+      jewelry, including a choker made of diamonds that Ferdinand had given her
+      as a wedding gift. Given that Adele struggled with health issues throughout
+      her life, the all-seeing eye and golden triangle symbols on her dress may have
+      been added as amulets. This painting was later stolen by the Nazis in 1941
+      and was only recovered after 60 years.`,
+    },
+    {
+      title: "Vsevolod Mikhailovich Garshin",
+      img: "./images/Portraiture/Vsevolod Mikhailovich Garshin.jpg",
+      artist: "Ilya Repin",
+      artistImg: "./images/Portraiture/Ilya Yefimovich Repin.jpg",
+      artistInfo: `Ilya Yefimovich Repin was a Ukrainian-born Russian painter. He became one
+      of the most renowned artists in Russia in the 19th century. His major works
+      include Barge Haulers on the Volga, Religious Procession in Kursk Province,
+      Ivan the Terrible and His Son Ivan; and Reply of the Zaporozhian Cossacks.
+      Born: August 5, 1844, Chuhuiv, Ukraine
+      Died: September 29, 1930 (age 86 years), Repino, Saint Petersburg, Russia
+      Period: Realism
+      Parents: Tatiana Stepanovna, Yefim Vasilyevich Repin
+      Spouse: Vera Repina (m. 1872)
+      Children: Yury Repin, Nadezhda Repina, Tatyana Repina, Vera Repina`,
+      info: `In 1884, Ilya Repin created his portrait of Vsevolod Mikhailovich Garshin.
+      During the Russo-Turkish War, writer Vsevolod Garshin was a military man.
+      After the war, he was appointed an officer, but Garshin withdrew and
+      concentrated on his literature. The horrors and gloom he encountered on the
+      battlefield shocked him. He expressed his profound empathy and boundless
+      compassion for others through his written work. Repin's portrait captures his
+      love of literature and his inherent kindness and makes it eternal. In the scene
+      depicted in the portrait, Garshin suddenly turns to face the spectator while
+      reading a book at his desk. It's hard to look away because of how intense his
+      gaze is. His expression conveys a profound melancholy and anguish. But
+      there's also evidence of the man's kindness. His melancholy and compassion
+      combine to create a painting of incredible intricacy and arguably one of Ilya
+      Repin's best works.`,
+    },
+    {
+      title: "Portrait Of Madame De Florian",
+      img: "./images/Portraiture/Portrait Of Madame De Florian.jpg",
+      artist: "Giovanni Boldini",
+      artistImg: "./images/Portraiture/Giovanni Boldini.jpg",
+      artistInfo: `Giovanni Boldini was an Italian genre and portrait painter who lived and
+      worked in Paris for most of his career. According to a 1933 article in Time
+      magazine, he was known as the "Master of Swish" because of his flowing
+      style of painting.
+      Born: December 31, 1842, Ferrara, Italy
+      Died: July 11, 1931 (age 88 years), Paris, France
+      Movement: Macchiaioli
+      Spouse: Emilia Cardona Boldini (m. 1929-1931)
+      Award: Legion of Honour
+      Parents: Antonio Boldini, Benvenuta Caleffi`,
+      info: `Parisian actress and socialite Marthe de Florian was well known for her
+      alluring beauty. She was also the subject of many rumors. People
+      speculated that she had relationships with several notable men, including
+      future French Prime Minister Georges Clemenceau and painter Giovanni
+      Boldini, the master behind the portrait above. However, until 2010 when the
+      apartment seemingly frozen in time was discovered, the latter connection
+      was only an assumption. One of the many findings in Madame Marthe de
+      Florian's apartment in Paris was a portrait of herself painted by Giovanni
+      Boldini, wearing a lovely pink muslin evening gown. A card with a
+      handwritten love letter from the artist discovered in the flat and a brief
+      mention found in a 1951 book that the artist's widow Emilia Cardona
+      commissioned supported the portrait's origin. The image had never been
+      listed, displayed, or published. According to the book, the painting might
+      have been created in 1888, when the actress was 24 years old.`,
+    },
+    {
+      title: "Mona Lisa",
+      img: "./images/Portraiture/Mona Lisa.jpg",
+      artist: "Leonardo Da Vinci",
+      artistImg: "./images/Portraiture/Leonardo di ser Piero da Vinci.jpg",
+      artistInfo: `Leonardo di ser Piero da Vinci was an Italian polymath of the High
+      Renaissance who was active as a painter, draughtsman, engineer, scientist,
+      theorist, sculptor, and architect.
+      Born: April 15, 1452, Anchiano, Italy
+      Died: May 2, 1519 (age 67 years), Château du Clos Lucé, Amboise, France
+      Periods: Renaissance, Italian Renaissance, High Renaissance
+      Place of burial: Chapel of Saint-Hubert, Amboise, France
+      Business partners: Bramantino, Cristoforo Lombardo
+      Ancestors: Piero Fruosino di Antonio da Vinci,`,
+      info: `Leonardo has frequently been referred to as the prototypical "Renaissance
+      man," a person whose seemingly limitless curiosity was only surpassed by his
+      inventiveness. He is regarded as one of the finest artists and possibly the
+      person with the broadest range of talents ever. However, Leonardo was and
+      is primarily known for his paintings. The Last Supper and the portrait of
+      the Mona Lisa, two of his creations, are arguably the most well-known,
+      frequently imitated, and often parodied paintings of all time. Leonardo da Vinci
+      was one of the first painters to use aerial perspective. His work was among
+      the first portraits to show the subject in front of a made-up landscape. Before
+      him, portraits lacked mystery; artists merely depicted physical attributes
+      without considering the soul. If they did, they attempted to convey the soul
+      through gestures, symbolic items, or inscriptions. The Mona Lisa remains a
+      mystery to this day; the soul is present yet inaccessible.`,
+    },
+  ],
 }
 
 const rootElement = document.querySelector("#root")

@@ -1100,7 +1100,7 @@ challenges.`,
   },
   {
     name: "Johannes Vermeer",
-    img: "./images/artist/johannes.webp",
+    img: "./images/Portraiture/Johannes Vermeer.jpg",
     bg: "Golden Age master known for meticulously detailed paintings with light & shadow",
     info: "Vermeer, a master of light and shadow, painted domestic scenes bathed in soft light. His meticulous attention to detail and use of perspective are evident in works like 'Girl with a Pearl Earring' and 'The Milkmaid.'",
     story:

@@ -424,25 +424,68 @@ const subGallery = {
       title: "Sunset",
       artist: "Ma'am Regina Santos",
       artistImg: "./images/Impressionism/Ma'am Regina Santos.jpg",
-      artistInfo: "",
+      artistInfo: `Located in the bustling city of Manila, Philippines, she has a diverse professional background that spans across various sectors. Regina currently hold the position of Teacher in Technology Education and Computers at FEU Institute of Technology, where she impart knowledge and skills in the realm of technology. Additionally, she serve as an IT Professor at San Beda College Alabang, contributing to the education of future tech professionals.
+      With previous experience as a Computer/KG Supervisor at Genius American School and Customer Care personnel at Teleperformance, she possess a rich understanding of both educational and corporate environments. Their journey also includes a role as a Clerk at International Bazaar Foundation, Inc., showcasing their versatility in administrative duties.
+      Her academic journey reflects a commitment to excellence, having pursued a Master of Information Technology degree from Technological University of the Philippines after completing a B.S. in Computer Science from Adamson University. She also attended Arellano University Abad Santos, further enriching her educational background.
+      In summary, Regina brings a wealth of experience, knowledge, and dedication to her roles in academia and beyond, shaping the future of technology education in the Philippines.`,
       img: "./images/Impressionism/sunset.jpg",
-      info: ``,
+      info: `The Banaue Rice Terraces, sometimes known as the "Eighth Wonder of the World," are a 
+      stunning scenery in the Philippines that exemplifies the Ifugao people's resourcefulness and 
+      perseverance. A painting of this classic landscape depicts elaborate tiers of green terraces 
+      cascading down the mountainsides, which were skillfully cut into the difficult terrain over 2,000 
+      years ago.
+      The artist's brushstrokes capture not only the physical grandeur of the terraces, but also their 
+      spiritual and cultural significance to indigenous tribes. Each terrace tells a tale of human-nature 
+      harmony, showing a deep regard for the land and a sustainable way of life that has been passed 
+      down for generations.
+      As the morning mist hovers over the terraces and the sun throws its warm warmth, the painting 
+      captures a sense of timelessness—a reminder of the enduring relationship between people and 
+      their surroundings. The Banaue artwork becomes more than just a landscape portrayal thanks to 
+      its brilliant colors and meticulous details; it is an homage to the human spirit's perseverance and 
+      the timeless connection between mankind and the nature.`,
     },
     {
       title: "Waterfalls 2",
       artist: "Ma'am Regina Santos",
       artistImg: "./images/Impressionism/Ma'am Regina Santos.jpg",
-      artistInfo: "",
+      artistInfo: `Located in the bustling city of Manila, Philippines, she has a diverse professional background that spans across various sectors. Regina currently hold the position of Teacher in Technology Education and Computers at FEU Institute of Technology, where she impart knowledge and skills in the realm of technology. Additionally, she serve as an IT Professor at San Beda College Alabang, contributing to the education of future tech professionals.
+      With previous experience as a Computer/KG Supervisor at Genius American School and Customer Care personnel at Teleperformance, she possess a rich understanding of both educational and corporate environments. Their journey also includes a role as a Clerk at International Bazaar Foundation, Inc., showcasing their versatility in administrative duties.
+      Her academic journey reflects a commitment to excellence, having pursued a Master of Information Technology degree from Technological University of the Philippines after completing a B.S. in Computer Science from Adamson University. She also attended Arellano University Abad Santos, further enriching her educational background.
+      In summary, Regina brings a wealth of experience, knowledge, and dedication to her roles in academia and beyond, shaping the future of technology education in the Philippines.`,
       img: "./images/Impressionism/waterfalls 2.jpg",
-      info: ``,
+      info: `Nature takes center stage in this stunning picture, which depicts a lush forest brimming with life. 
+      Towering trees reach for the sky, their verdant canopy providing a haven for a variety of plants 
+      and fauna. The sound of gushing water fills the air, hinting at the presence of a spectacular 
+      waterfall hidden deep in the forest. 
+      under the center of the landscape, a waterfall falls smoothly over steep cliffs, its crystal-clear 
+      waters gleaming under the dappled sun. The thunderous plunge of the falls is contrasted by the 
+      peaceful pool below, enabling viewers to envision themselves diving into its cold depths or 
+      simply soaking in the tranquility of its surrounds.
+      A flock of birds takes flight among this natural sight, their beautiful movements adding to the 
+      scene's dynamic vitality. The birds, with their wings outstretched against an azure sky, represent 
+      freedom and transcendence, mirroring the natural world's ageless rhythms.
+      The artist's painting features a clear tubing that snakes through the forest and over falls, 
+      providing a view of the underwater world. The clarity symbolizes the transparency and purity of 
+      nature's beauty. The artist encourages viewers to immerse themselves in the untamed wilderness, 
+      reminding them of humanity's deep connection to the environment and celebrating the enduring 
+      fascination of the great outdoors`,
     },
     {
       title: "Bob Ross Painting",
       artist: "Ma'am Regina Santos",
       artistImg: "./images/Impressionism/Ma'am Regina Santos.jpg",
-      artistInfo: "",
+      artistInfo: `Located in the bustling city of Manila, Philippines, she has a diverse professional background that spans across various sectors. Regina currently hold the position of Teacher in Technology Education and Computers at FEU Institute of Technology, where she impart knowledge and skills in the realm of technology. Additionally, she serve as an IT Professor at San Beda College Alabang, contributing to the education of future tech professionals.
+      With previous experience as a Computer/KG Supervisor at Genius American School and Customer Care personnel at Teleperformance, she possess a rich understanding of both educational and corporate environments. Their journey also includes a role as a Clerk at International Bazaar Foundation, Inc., showcasing their versatility in administrative duties.
+      Her academic journey reflects a commitment to excellence, having pursued a Master of Information Technology degree from Technological University of the Philippines after completing a B.S. in Computer Science from Adamson University. She also attended Arellano University Abad Santos, further enriching her educational background.
+      In summary, Regina brings a wealth of experience, knowledge, and dedication to her roles in academia and beyond, shaping the future of technology education in the Philippines.`,
       img: "./images/Impressionism/bob ross painting.jpg",
-      info: ``,
+      info: `A solitary house stands amidst vast land, serving as a beacon of hope and identity amidst the 
+      breathtaking beauty of the surroundings. Surrounded by towering trees, the house finds refuge 
+      from the sun and rain, casting shadows on the land. The sky, painted with vibrant hues, hint at 
+      moments of delight and wonder in nature. Wisps of clouds create a mysterious and captivating 
+      atmosphere. This image portrays a peaceful life amidst nature, where the house becomes a 
+      sanctuary of joy and tranquility, reminding us of the importance of fostering a relationship with 
+      and caring for nature`,
     },
     {
       title: "Apple Harvest",
